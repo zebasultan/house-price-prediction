@@ -1,0 +1,2016 @@
+area_sqft,bedrooms,bathrooms,age_years,parking,floor,distance_to_metro_km,location,furnishing,price_lakhs
+1616.0,4,5,5.0,1,6,5.62,Whitefield,Unfurnished,117.25
+1206.0,3,3,15.0,1,17,3.7,Jayanagar,Semi-Furnished,126.77
+1024.0,2,3,20.0,1,11,3.45,Hebbal,Unfurnished,69.36
+1391.0,3,3,20.0,1,7,2.43,HSR Layout,Unfurnished,116.12
+533.0,1,1,24.0,1,9,3.04,HSR Layout,Semi-Furnished,44.79
+1501.0,3,3,3.0,0,14,2.02,Jayanagar,Semi-Furnished,183.23
+1390.0,3,3,5.0,2,19,4.33,Whitefield,Furnished,148.01
+583.0,1,1,4.0,0,10,3.58,Hebbal,Unfurnished,48.31
+593.0,1,2,16.0,1,7,5.05,Koramangala,Semi-Furnished,61.22
+1406.0,3,2,19.0,0,15,4.95,Whitefield,Semi-Furnished,99.77
+1231.0,2,1,3.0,1,11,1.47,Electronic City,Semi-Furnished,81.31
+1920.0,4,3,26.0,2,8,0.24,Yelahanka,Semi-Furnished,98.79
+1146.0,3,4,9.0,0,9,1.38,Hebbal,Semi-Furnished,96.44
+1131.0,3,3,20.0,1,11,3.02,Jayanagar,Furnished,122.88
+985.0,2,3,23.0,1,2,2.02,Hebbal,Unfurnished,63.39
+1279.0,3,3,1.0,2,1,1.95,Jayanagar,Unfurnished,140.07
+1780.0,4,3,26.0,0,13,1.31,Electronic City,Semi-Furnished,75.16
+624.0,1,1,30.0,2,3,3.34,Koramangala,Furnished,62.24
+1064.0,2,1,29.0,1,11,0.47,Jayanagar,Unfurnished,88.26
+964.0,2,2,4.0,1,16,3.68,HSR Layout,Semi-Furnished,104.96
+840.0,2,1,12.0,1,4,3.73,Electronic City,Furnished,49.66
+980.0,3,4,7.0,1,8,4.97,Indiranagar,Semi-Furnished,140.37
+1127.0,2,2,13.0,1,20,14.59,Koramangala,Furnished,133.17
+1386.0,3,2,30.0,0,0,0.2,Yelahanka,Semi-Furnished,64.55
+1069.0,2,3,23.0,1,15,3.61,Jayanagar,Semi-Furnished,107.86
+1196.0,2,2,23.0,1,3,4.12,Hebbal,Unfurnished,71.12
+1220.0,2,1,13.0,1,19,1.38,HSR Layout,Furnished,119.62
+1976.0,4,4,29.0,0,8,2.13,Jayanagar,Semi-Furnished,154.97
+1270.0,3,2,28.0,1,0,1.67,Electronic City,Semi-Furnished,57.2
+,2,3,,1,15,,HSR Layout,,73.62
+1609.0,3,3,25.0,1,3,5.35,HSR Layout,Semi-Furnished,120.12
+584.0,1,2,20.0,2,7,0.88,Koramangala,Semi-Furnished,78.54
+1023.0,2,3,2.0,1,10,3.37,Whitefield,Semi-Furnished,101.94
+1108.0,2,3,8.0,1,15,6.11,Electronic City,Furnished,77.09
+2145.0,5,5,23.0,0,8,1.47,Yelahanka,Semi-Furnished,116.36
+1525.0,3,2,10.0,2,18,1.18,Whitefield,Semi-Furnished,146.56
+1391.0,3,3,5.0,1,10,1.06,Jayanagar,Unfurnished,151.21
+457.0,1,1,29.0,1,7,1.24,Jayanagar,Semi-Furnished,40.93
+970.0,2,1,15.0,1,7,7.98,Indiranagar,Semi-Furnished,117.9
+1464.0,3,4,26.0,0,16,9.22,Hebbal,Unfurnished,83.17
+1022.0,2,3,8.0,2,13,6.64,Koramangala,Unfurnished,121.63
+1901.0,4,4,11.0,1,2,1.99,Jayanagar,Semi-Furnished,210.95
+1475.0,3,4,10.0,1,15,6.82,Hebbal,Semi-Furnished,111.21
+1016.0,2,3,11.0,0,8,1.01,Indiranagar,Semi-Furnished,128.51
+1287.0,3,2,13.0,2,7,4.41,Whitefield,Unfurnished,95.44
+1873.0,5,5,9.0,2,2,1.58,Yelahanka,Unfurnished,127.13
+1066.0,2,3,25.0,2,20,0.89,HSR Layout,Unfurnished,99.55
+1547.0,3,3,10.0,2,1,3.29,Yelahanka,Furnished,115.72
+1929.0,4,5,13.0,2,20,3.35,Hebbal,Furnished,157.06
+1129.0,2,2,26.0,1,1,3.59,Jayanagar,Unfurnished,91.15
+2140.0,4,3,13.0,0,10,3.89,Jayanagar,Semi-Furnished,231.3
+509.0,1,1,0.0,1,2,3.17,Koramangala,Unfurnished,73.83
+1341.0,3,3,0.0,1,10,2.29,Indiranagar,Unfurnished,196.49
+1761.0,3,4,13.0,1,17,2.63,HSR Layout,Unfurnished,152.12
+1552.0,3,2,20.0,0,12,4.45,HSR Layout,Unfurnished,117.73
+1079.0,2,1,29.0,0,11,3.09,Whitefield,Semi-Furnished,61.04
+,3,2,,1,2,,Electronic City,,86.8
+983.0,2,2,16.0,0,19,1.36,Koramangala,Unfurnished,108.36
+766.0,2,3,8.0,0,7,2.61,Hebbal,Semi-Furnished,69.92
+1079.0,2,2,13.0,0,11,6.09,Hebbal,Semi-Furnished,69.44
+1261.0,3,4,13.0,1,18,3.93,Yelahanka,Furnished,83.04
+988.0,2,3,9.0,0,13,6.31,Hebbal,Semi-Furnished,78.06
+786.0,2,2,0.0,0,15,1.96,Indiranagar,Unfurnished,119.62
+1762.0,4,4,2.0,1,3,2.92,Yelahanka,Semi-Furnished,104.91
+948.0,2,1,16.0,2,9,3.25,HSR Layout,Unfurnished,80.32
+,2,3,,1,11,,Indiranagar,,143.61
+1333.0,2,3,10.0,0,3,1.96,Yelahanka,Semi-Furnished,90.83
+1333.0,2,3,2.0,2,8,3.92,Indiranagar,Semi-Furnished,217.13
+1565.0,3,4,1.0,2,17,5.86,Whitefield,Unfurnished,138.27
+1118.0,2,2,3.0,0,19,2.39,HSR Layout,Semi-Furnished,122.81
+,1,1,,1,17,1.22,Jayanagar,Furnished,81.55
+2776.0,5,6,5.0,0,19,5.99,Koramangala,Semi-Furnished,352.63
+1439.0,3,3,7.0,1,20,4.18,HSR Layout,Semi-Furnished,165.82
+1502.0,3,4,9.0,1,4,0.7,Koramangala,Furnished,216.44
+1489.0,4,5,9.0,2,17,2.43,Hebbal,Furnished,135.33
+2123.0,4,3,0.0,2,13,8.3,HSR Layout,Unfurnished,202.97
+1254.0,2,2,3.0,1,18,3.7,Indiranagar,Semi-Furnished,180.7
+1427.0,3,3,29.0,0,13,2.61,Koramangala,Semi-Furnished,142.34
+1107.0,3,3,20.0,2,2,1.09,Electronic City,Semi-Furnished,64.75
+1025.0,2,1,3.0,1,11,1.08,Hebbal,Unfurnished,78.1
+886.0,2,1,8.0,2,15,4.4,Yelahanka,Unfurnished,62.51
+352.0,1,1,11.0,0,2,1.17,HSR Layout,Furnished,36.41
+1691.0,3,2,28.0,1,10,3.27,Koramangala,Furnished,144.98
+1468.0,3,2,27.0,2,13,2.39,Jayanagar,Furnished,138.4
+1389.0,3,2,23.0,2,9,3.13,Hebbal,Furnished,101.7
+1049.0,2,3,3.0,1,16,2.23,Hebbal,Semi-Furnished,107.71
+1049.0,2,1,15.0,1,2,3.58,Whitefield,Furnished,75.56
+1076.0,2,2,14.0,1,7,4.95,Indiranagar,Furnished,142.97
+1141.0,3,2,19.0,1,19,2.26,Jayanagar,Semi-Furnished,123.18
+1982.0,4,4,26.0,2,10,4.66,Jayanagar,Semi-Furnished,176.52
+2038.0,4,3,9.0,1,3,6.5,HSR Layout,Unfurnished,172.28
+1844.0,4,3,17.0,1,2,3.25,Jayanagar,Semi-Furnished,166.34
+1645.0,4,4,8.0,0,12,4.32,Jayanagar,Unfurnished,173.11
+2503.0,5,6,6.0,1,19,0.89,HSR Layout,Unfurnished,264.73
+658.0,2,1,9.0,2,1,2.3,Yelahanka,Semi-Furnished,47.04
+669.0,1,1,22.0,0,2,0.62,Indiranagar,Semi-Furnished,79.41
+393.0,1,2,13.0,1,7,1.7,Koramangala,Unfurnished,51.25
+1073.0,2,2,21.0,2,4,2.32,Hebbal,Furnished,71.73
+1120.0,2,3,21.0,1,2,8.78,Hebbal,Furnished,73.13
+,2,1,,1,6,,Koramangala,,156.44
+1572.0,4,5,29.0,1,13,2.52,Jayanagar,Unfurnished,134.7
+1209.0,2,1,1.0,1,17,1.18,Koramangala,Unfurnished,167.8
+1872.0,4,4,27.0,0,6,2.17,Jayanagar,Furnished,178.25
+1096.0,3,3,0.0,1,14,3.63,Whitefield,Furnished,103.51
+1684.0,3,2,11.0,1,17,4.05,Jayanagar,Unfurnished,167.5
+1094.0,3,4,25.0,1,0,1.95,Jayanagar,Furnished,114.94
+1093.0,2,3,21.0,1,17,1.55,Jayanagar,Unfurnished,95.03
+1421.0,3,2,9.0,0,3,7.06,Hebbal,Semi-Furnished,99.03
+1102.0,2,1,27.0,0,14,1.84,HSR Layout,Furnished,96.45
+1698.0,4,5,4.0,0,15,0.3,Hebbal,Unfurnished,154.5
+1012.0,2,2,20.0,0,17,5.88,Indiranagar,Unfurnished,112.44
+781.0,2,1,16.0,1,8,0.4,Jayanagar,Semi-Furnished,87.22
+1455.0,3,4,6.0,0,13,5.89,Electronic City,Semi-Furnished,83.78
+1316.0,3,4,28.0,1,0,0.64,HSR Layout,Furnished,120.22
+931.0,2,2,23.0,0,9,0.77,Electronic City,Furnished,47.09
+1573.0,3,2,0.0,0,20,0.98,Electronic City,Unfurnished,96.87
+1226.0,2,1,2.0,0,3,1.72,Whitefield,Unfurnished,104.5
+1353.0,3,3,1.0,1,3,5.92,Koramangala,Furnished,178.27
+1020.0,2,1,12.0,1,14,1.01,Koramangala,Unfurnished,124.22
+1022.0,2,2,12.0,2,10,3.62,Whitefield,Furnished,94.54
+941.0,2,1,22.0,0,9,3.07,HSR Layout,Semi-Furnished,85.5
+862.0,2,1,20.0,1,5,2.69,Hebbal,Unfurnished,59.57
+903.0,2,1,0.0,2,3,5.2,Hebbal,Furnished,80.53
+869.0,2,2,14.0,1,15,2.86,HSR Layout,Unfurnished,89.38
+,2,2,,0,7,3.03,Jayanagar,Semi-Furnished,86.82
+977.0,2,2,27.0,0,16,4.29,Electronic City,Semi-Furnished,50.81
+1210.0,3,4,9.0,0,9,1.77,Whitefield,Semi-Furnished,104.45
+683.0,2,2,1.0,2,8,2.54,Jayanagar,Semi-Furnished,94.7
+,3,2,,1,4,,Electronic City,,78.57
+1648.0,4,5,10.0,1,13,4.86,Hebbal,Furnished,117.43
+1032.0,2,3,13.0,2,5,2.29,Electronic City,Furnished,64.39
+1941.0,4,4,10.0,1,19,2.5,Electronic City,Semi-Furnished,133.94
+455.0,1,1,2.0,1,8,3.56,Whitefield,Unfurnished,41.48
+463.0,1,2,10.0,0,17,2.33,Electronic City,Semi-Furnished,36.01
+1710.0,3,4,8.0,1,9,1.41,Jayanagar,Furnished,196.93
+1515.0,3,3,15.0,0,8,4.29,Indiranagar,Unfurnished,169.11
+1716.0,4,3,2.0,1,9,2.88,Electronic City,Semi-Furnished,112.87
+642.0,1,1,24.0,1,9,1.88,Whitefield,Semi-Furnished,53.21
+1387.0,3,2,12.0,1,10,0.98,Indiranagar,Unfurnished,181.44
+803.0,2,1,9.0,1,18,0.41,HSR Layout,Semi-Furnished,92.07
+1124.0,2,1,28.0,1,14,3.69,Yelahanka,Semi-Furnished,63.1
+927.0,2,2,23.0,0,0,1.38,Koramangala,Furnished,93.41
+2725.0,5,4,4.0,2,1,0.6,Indiranagar,Furnished,434.89
+508.0,1,1,4.0,0,0,1.24,HSR Layout,Furnished,59.36
+1681.0,4,5,0.0,2,14,3.23,Yelahanka,Semi-Furnished,138.03
+1367.0,3,4,17.0,1,4,1.37,Jayanagar,Unfurnished,134.66
+1087.0,3,2,10.0,1,8,3.28,Whitefield,Semi-Furnished,88.8
+1522.0,3,4,11.0,1,17,1.63,Koramangala,Furnished,190.05
+1845.0,4,5,15.0,2,2,2.52,Jayanagar,Semi-Furnished,183.46
+1088.0,2,2,16.0,1,3,2.69,Whitefield,Furnished,82.41
+507.0,1,1,0.0,0,1,4.13,Jayanagar,Unfurnished,58.34
+1635.0,3,3,3.0,2,5,4.22,Indiranagar,Furnished,237.7
+1243.0,2,1,24.0,0,1,2.59,Yelahanka,Unfurnished,59.13
+1167.0,2,2,29.0,1,13,1.13,Indiranagar,Unfurnished,120.66
+971.0,2,3,25.0,1,15,5.58,HSR Layout,Semi-Furnished,77.98
+1095.0,2,2,28.0,2,3,1.85,Hebbal,Unfurnished,65.05
+395.0,1,1,14.0,1,11,0.18,Koramangala,Unfurnished,51.7
+667.0,1,1,25.0,1,6,3.15,Electronic City,Unfurnished,33.18
+1619.0,4,5,27.0,1,1,3.24,Electronic City,Semi-Furnished,75.15
+900.0,2,1,27.0,1,9,1.91,Jayanagar,Furnished,91.67
+1859.0,5,6,4.0,1,14,0.64,Yelahanka,Unfurnished,122.44
+2312.0,5,4,4.0,1,4,0.51,Hebbal,Semi-Furnished,218.8
+1003.0,2,1,12.0,2,16,2.03,HSR Layout,Furnished,112.8
+1336.0,3,2,15.0,1,20,1.03,HSR Layout,Unfurnished,135.8
+1276.0,3,3,29.0,0,1,4.85,HSR Layout,Unfurnished,91.9
+1023.0,3,4,9.0,1,3,1.97,Jayanagar,Furnished,128.66
+674.0,1,1,25.0,0,6,1.78,Indiranagar,Furnished,81.53
+1164.0,2,1,27.0,1,17,8.18,Koramangala,Semi-Furnished,98.46
+575.0,1,1,29.0,1,2,0.22,Indiranagar,Furnished,63.14
+1461.0,3,2,5.0,1,9,2.51,Whitefield,Unfurnished,117.2
+2686.0,5,5,7.0,1,11,0.43,Whitefield,Semi-Furnished,210.11
+1557.0,3,4,6.0,1,2,5.98,Whitefield,Semi-Furnished,123.85
+1608.0,3,4,22.0,2,0,0.58,Jayanagar,Unfurnished,167.83
+2670.0,5,6,21.0,1,2,3.33,Hebbal,Furnished,180.28
+1466.0,3,2,12.0,1,1,3.0,Hebbal,Semi-Furnished,120.89
+654.0,1,1,2.0,0,10,0.42,HSR Layout,Furnished,87.86
+1721.0,4,3,16.0,0,19,3.35,Hebbal,Semi-Furnished,144.57
+1186.0,2,2,22.0,1,7,1.62,Koramangala,Semi-Furnished,139.97
+511.0,1,1,14.0,1,5,3.83,Yelahanka,Unfurnished,38.56
+1573.0,3,4,8.0,0,4,1.53,Electronic City,Unfurnished,94.56
+1880.0,4,4,18.0,0,20,3.36,Yelahanka,Furnished,115.75
+969.0,2,1,20.0,1,20,2.32,Koramangala,Unfurnished,107.28
+1051.0,2,2,18.0,1,13,3.36,HSR Layout,Unfurnished,94.72
+943.0,2,2,27.0,2,9,3.78,Hebbal,Unfurnished,63.82
+547.0,1,1,9.0,1,3,2.13,HSR Layout,Unfurnished,59.17
+689.0,1,1,18.0,0,19,1.86,HSR Layout,Furnished,66.79
+1540.0,3,3,26.0,1,0,3.71,Koramangala,Semi-Furnished,133.23
+1436.0,4,4,6.0,0,3,1.64,HSR Layout,Furnished,161.29
+944.0,2,3,8.0,0,14,2.16,Koramangala,Unfurnished,113.31
+922.0,2,3,1.0,1,3,6.77,Indiranagar,Semi-Furnished,125.6
+1189.0,2,1,11.0,1,2,2.53,Hebbal,Semi-Furnished,88.56
+569.0,1,2,1.0,0,12,4.22,Hebbal,Semi-Furnished,50.87
+1508.0,3,2,23.0,1,0,1.44,Electronic City,Furnished,83.05
+1755.0,3,4,2.0,1,5,3.33,Indiranagar,Furnished,259.49
+1394.0,3,3,21.0,0,13,2.21,Yelahanka,Furnished,87.68
+1253.0,2,3,17.0,2,3,1.9,Whitefield,Unfurnished,98.63
+1265.0,3,4,30.0,1,15,0.38,Indiranagar,Unfurnished,129.23
+652.0,1,1,10.0,2,1,1.05,Whitefield,Semi-Furnished,60.85
+992.0,2,2,10.0,2,12,8.53,Indiranagar,Unfurnished,113.23
+2000.0,4,5,7.0,1,1,2.3,Yelahanka,Semi-Furnished,136.67
+1344.0,3,3,16.0,1,15,2.54,Indiranagar,Semi-Furnished,175.81
+1732.0,4,4,6.0,2,15,4.76,Yelahanka,Semi-Furnished,129.41
+1800.0,4,4,3.0,1,16,3.1,HSR Layout,Furnished,190.16
+1447.0,3,3,29.0,0,5,1.89,Hebbal,Semi-Furnished,76.37
+1887.0,4,3,21.0,1,4,1.9,HSR Layout,Unfurnished,150.38
+1165.0,2,1,3.0,1,20,0.97,Indiranagar,Unfurnished,181.85
+651.0,1,2,19.0,2,15,3.53,Jayanagar,Semi-Furnished,75.18
+466.0,1,1,9.0,1,3,3.62,Yelahanka,Semi-Furnished,32.06
+485.0,1,1,5.0,2,0,2.57,Indiranagar,Unfurnished,65.16
+561.0,1,1,14.0,1,7,2.25,Jayanagar,Semi-Furnished,59.82
+1250.0,2,3,24.0,1,13,3.64,Indiranagar,Furnished,136.53
+1411.0,3,3,0.0,1,7,0.95,Hebbal,Furnished,141.26
+,3,2,,2,16,3.23,Jayanagar,Semi-Furnished,164.48
+1265.0,3,2,28.0,2,10,7.02,HSR Layout,Semi-Furnished,91.44
+966.0,2,2,12.0,2,20,1.47,Hebbal,Unfurnished,87.48
+1558.0,3,3,3.0,2,18,2.08,Indiranagar,Semi-Furnished,241.23
+1079.0,2,1,13.0,1,9,5.81,Whitefield,Unfurnished,74.15
+540.0,1,1,21.0,1,17,2.57,Whitefield,Semi-Furnished,46.04
+1284.0,2,1,30.0,2,9,4.46,HSR Layout,Semi-Furnished,98.85
+883.0,2,1,19.0,0,0,3.36,Yelahanka,Unfurnished,44.49
+918.0,2,3,1.0,1,6,3.57,Koramangala,Unfurnished,110.97
+1381.0,3,3,25.0,1,8,1.4,HSR Layout,Unfurnished,113.06
+1623.0,3,3,24.0,1,20,1.37,Hebbal,Furnished,120.1
+1673.0,3,2,20.0,1,17,4.05,Koramangala,Semi-Furnished,192.06
+1076.0,2,2,27.0,0,3,0.7,Hebbal,Unfurnished,60.13
+1432.0,3,4,23.0,0,0,2.16,Indiranagar,Furnished,155.78
+1282.0,3,4,7.0,1,11,3.65,Jayanagar,Semi-Furnished,146.75
+1150.0,2,2,13.0,1,11,2.08,Electronic City,Semi-Furnished,71.77
+1399.0,3,2,15.0,0,15,2.27,Electronic City,Furnished,82.21
+1025.0,2,2,15.0,1,5,4.61,Koramangala,Unfurnished,115.54
+1128.0,2,1,19.0,1,17,6.29,HSR Layout,Unfurnished,88.36
+490.0,1,1,21.0,1,8,10.81,Jayanagar,Semi-Furnished,47.17
+1477.0,3,4,3.0,1,7,5.92,Whitefield,Unfurnished,119.17
+674.0,1,2,17.0,1,8,1.75,Jayanagar,Semi-Furnished,72.65
+1120.0,2,3,1.0,2,19,1.2,HSR Layout,Unfurnished,148.59
+1088.0,2,2,15.0,0,8,1.77,Hebbal,Unfurnished,69.88
+2001.0,4,5,13.0,1,11,3.69,Hebbal,Unfurnished,143.06
+1122.0,2,2,6.0,1,18,1.92,HSR Layout,Semi-Furnished,115.18
+894.0,2,1,30.0,0,0,1.45,Indiranagar,Unfurnished,81.14
+896.0,2,1,8.0,2,11,6.81,Hebbal,Unfurnished,76.58
+1914.0,4,3,1.0,2,14,1.87,Koramangala,Furnished,282.21
+1519.0,3,4,11.0,1,18,3.49,Electronic City,Unfurnished,92.63
+1542.0,4,3,23.0,2,1,3.42,Whitefield,Semi-Furnished,116.57
+839.0,2,3,0.0,1,15,0.39,Hebbal,Unfurnished,83.6
+603.0,1,2,15.0,1,16,6.53,Hebbal,Semi-Furnished,53.21
+1344.0,3,3,12.0,0,7,0.9,Whitefield,Unfurnished,109.39
+1229.0,2,3,26.0,0,15,0.63,Jayanagar,Semi-Furnished,92.2
+,3,2,,1,10,1.7,HSR Layout,Unfurnished,163.72
+2135.0,4,4,0.0,1,13,1.22,Jayanagar,Furnished,261.26
+980.0,2,1,17.0,1,8,5.84,Whitefield,Furnished,71.02
+2281.0,5,4,5.0,1,3,3.06,Koramangala,Unfurnished,303.72
+,3,2,,1,17,1.57,HSR Layout,Unfurnished,109.06
+1023.0,2,3,8.0,0,4,0.61,Koramangala,Unfurnished,140.92
+996.0,2,3,17.0,1,3,3.33,Indiranagar,Semi-Furnished,110.55
+,1,2,,0,18,,Hebbal,,42.89
+1315.0,3,4,21.0,1,19,3.67,Koramangala,Furnished,157.21
+761.0,1,2,16.0,1,12,3.08,Hebbal,Furnished,62.06
+998.0,2,3,0.0,1,12,1.26,Whitefield,Furnished,106.85
+1478.0,3,2,8.0,0,7,4.0,Koramangala,Semi-Furnished,175.11
+809.0,1,2,1.0,1,12,0.8,Electronic City,Furnished,63.28
+642.0,1,2,1.0,2,12,1.94,Jayanagar,Unfurnished,85.41
+1297.0,3,2,21.0,0,10,2.15,Koramangala,Semi-Furnished,135.87
+475.0,1,1,13.0,1,13,2.39,Indiranagar,Unfurnished,67.18
+879.0,2,3,24.0,0,11,0.75,Yelahanka,Furnished,58.9
+1212.0,2,3,7.0,0,18,5.65,Yelahanka,Semi-Furnished,80.02
+791.0,2,1,22.0,1,14,1.25,Electronic City,Furnished,47.13
+988.0,2,1,19.0,0,8,0.47,HSR Layout,Unfurnished,81.71
+1854.0,3,3,20.0,1,13,3.15,Indiranagar,Furnished,238.77
+1733.0,4,3,25.0,2,4,8.45,Electronic City,Semi-Furnished,84.87
+1088.0,2,3,21.0,1,4,0.39,Electronic City,Semi-Furnished,54.84
+1592.0,4,4,23.0,0,17,4.65,Indiranagar,Furnished,156.85
+1697.0,3,2,22.0,2,12,2.52,Whitefield,Semi-Furnished,116.36
+1474.0,3,4,13.0,1,1,0.78,Koramangala,Semi-Furnished,181.03
+1545.0,3,4,22.0,2,7,2.14,Yelahanka,Semi-Furnished,92.67
+1695.0,3,4,26.0,1,20,7.12,HSR Layout,Unfurnished,132.3
+,3,4,,1,13,,HSR Layout,,134.77
+973.0,2,1,18.0,2,18,12.15,HSR Layout,Unfurnished,91.46
+1340.0,3,4,2.0,0,11,4.13,Jayanagar,Unfurnished,160.07
+1090.0,2,3,13.0,2,0,1.66,Whitefield,Furnished,-10.0
+554.0,1,2,1.0,1,3,4.59,Whitefield,Semi-Furnished,57.78
+959.0,3,2,3.0,2,1,1.37,Indiranagar,Semi-Furnished,129.9
+570.0,1,1,11.0,0,15,2.28,HSR Layout,Semi-Furnished,59.09
+850.0,2,3,14.0,1,15,1.38,Hebbal,Semi-Furnished,73.48
+644.0,1,1,16.0,0,9,4.12,HSR Layout,Semi-Furnished,60.55
+1058.0,2,2,27.0,2,15,3.87,HSR Layout,Furnished,84.66
+1279.0,3,4,23.0,0,11,1.49,Yelahanka,Furnished,74.79
+1376.0,3,4,13.0,0,15,5.34,Koramangala,Semi-Furnished,161.49
+836.0,2,2,10.0,2,14,6.52,Electronic City,Unfurnished,58.36
+527.0,1,2,22.0,1,9,1.67,Electronic City,Semi-Furnished,37.24
+1023.0,2,3,8.0,1,13,3.38,HSR Layout,Semi-Furnished,115.42
+1421.0,2,3,27.0,1,6,6.79,Jayanagar,Semi-Furnished,114.87
+1559.0,3,2,24.0,1,15,3.16,Indiranagar,Semi-Furnished,174.02
+1417.0,3,2,21.0,0,19,1.94,Yelahanka,Semi-Furnished,79.24
+931.0,2,1,7.0,1,4,2.36,Indiranagar,Unfurnished,123.61
+856.0,2,2,19.0,1,14,1.65,Electronic City,Unfurnished,54.03
+3041.0,5,5,25.0,1,2,5.46,Electronic City,Semi-Furnished,136.3
+1517.0,3,2,2.0,1,7,5.0,Jayanagar,Unfurnished,171.59
+1299.0,2,3,5.0,0,14,1.34,HSR Layout,Unfurnished,144.45
+1169.0,2,1,15.0,1,5,1.57,Indiranagar,Semi-Furnished,150.14
+525.0,1,2,11.0,0,4,0.64,Whitefield,Semi-Furnished,48.66
+1716.0,4,4,21.0,1,8,3.71,Indiranagar,Unfurnished,210.28
+914.0,2,3,12.0,1,2,0.92,Jayanagar,Semi-Furnished,107.38
+1027.0,2,1,30.0,1,13,9.22,Whitefield,Furnished,61.3
+2247.0,5,4,9.0,1,2,1.22,Yelahanka,Unfurnished,144.89
+2000.0,3,4,11.0,1,6,0.36,Electronic City,Furnished,130.57
+532.0,1,1,0.0,2,6,0.88,Koramangala,Furnished,89.63
+642.0,1,1,7.0,1,20,3.09,Indiranagar,Semi-Furnished,103.14
+567.0,1,1,7.0,2,20,2.33,Electronic City,Semi-Furnished,43.42
+1497.0,3,4,23.0,1,1,1.2,Indiranagar,Unfurnished,175.96
+514.0,1,1,10.0,0,3,2.24,Whitefield,Furnished,48.39
+1573.0,4,5,6.0,2,15,1.52,Hebbal,Semi-Furnished,146.8
+1853.0,4,4,9.0,2,6,3.65,Hebbal,Furnished,159.84
+1446.0,3,2,17.0,1,13,0.95,Whitefield,Semi-Furnished,111.23
+1580.0,3,3,24.0,0,19,2.77,Indiranagar,Unfurnished,163.68
+1001.0,2,2,30.0,0,3,2.86,Koramangala,Unfurnished,88.3
+609.0,1,1,1.0,1,20,2.39,Hebbal,Semi-Furnished,63.58
+1709.0,3,4,26.0,1,1,3.34,Hebbal,Semi-Furnished,109.83
+539.0,1,1,12.0,1,4,2.22,Hebbal,Unfurnished,44.68
+495.0,1,1,25.0,1,10,4.09,Yelahanka,Semi-Furnished,33.17
+857.0,2,2,1.0,1,18,2.38,Jayanagar,Furnished,122.16
+633.0,1,1,19.0,0,11,5.62,Indiranagar,Semi-Furnished,66.68
+1108.0,2,3,28.0,0,2,2.76,Whitefield,Semi-Furnished,72.49
+1413.0,3,2,1.0,0,5,5.38,Electronic City,Unfurnished,91.98
+1315.0,3,2,24.0,2,15,1.54,Yelahanka,Furnished,81.9
+1232.0,3,2,3.0,1,11,1.06,Yelahanka,Unfurnished,95.72
+1432.0,4,4,30.0,2,0,4.07,Koramangala,Furnished,130.33
+917.0,2,2,23.0,1,10,2.42,Koramangala,Semi-Furnished,97.79
+1620.0,4,5,28.0,2,8,0.23,Whitefield,Semi-Furnished,111.14
+1321.0,3,4,27.0,1,0,1.32,Koramangala,Unfurnished,136.21
+907.0,2,3,9.0,2,5,3.1,Electronic City,Unfurnished,68.16
+1553.0,4,3,12.0,2,19,2.26,Electronic City,Furnished,104.0
+1032.0,2,3,21.0,1,14,1.27,Indiranagar,Semi-Furnished,133.9
+534.0,1,1,5.0,0,1,2.4,Indiranagar,Semi-Furnished,80.04
+958.0,2,1,9.0,1,0,2.71,Jayanagar,Furnished,108.58
+924.0,2,2,3.0,0,7,0.47,HSR Layout,Furnished,108.55
+998.0,2,2,27.0,0,9,5.28,Jayanagar,Furnished,88.79
+1193.0,3,2,7.0,1,9,6.11,Yelahanka,Unfurnished,71.85
+1557.0,4,5,12.0,2,14,1.31,Indiranagar,Semi-Furnished,214.55
+1124.0,2,1,14.0,0,3,8.26,Koramangala,Furnished,134.45
+1592.0,3,3,11.0,0,0,2.28,Yelahanka,Semi-Furnished,93.35
+1012.0,2,2,24.0,2,14,1.45,Hebbal,Unfurnished,77.05
+2144.0,4,4,28.0,0,18,1.41,Indiranagar,Furnished,234.1
+767.0,2,2,17.0,0,3,7.9,Electronic City,Semi-Furnished,38.27
+707.0,1,2,25.0,1,7,0.97,Electronic City,Semi-Furnished,41.44
+1496.0,3,3,3.0,2,13,2.75,Yelahanka,Furnished,128.76
+1559.0,3,2,29.0,1,3,3.01,Indiranagar,Semi-Furnished,155.36
+1519.0,3,4,3.0,1,18,4.09,Yelahanka,Semi-Furnished,115.94
+1348.0,3,4,2.0,1,4,2.59,Yelahanka,Semi-Furnished,108.37
+1434.0,3,2,0.0,1,11,7.52,Koramangala,Semi-Furnished,180.62
+979.0,2,3,7.0,2,7,8.48,Koramangala,Unfurnished,110.78
+635.0,1,1,25.0,2,14,6.4,Electronic City,Furnished,45.54
+605.0,1,1,9.0,1,4,3.23,Whitefield,Furnished,55.43
+570.0,1,1,24.0,1,2,4.69,Indiranagar,Unfurnished,62.69
+,2,3,,1,10,,HSR Layout,,83.12
+1201.0,2,1,3.0,0,18,5.41,Yelahanka,Furnished,85.63
+965.0,2,2,14.0,1,13,1.52,Yelahanka,Unfurnished,59.38
+1491.0,3,4,7.0,0,15,1.13,Koramangala,Semi-Furnished,195.48
+1037.0,2,3,9.0,2,9,1.1,Yelahanka,Semi-Furnished,75.61
+1504.0,3,3,16.0,1,2,3.71,Whitefield,Semi-Furnished,106.23
+1454.0,3,4,24.0,1,8,6.92,Hebbal,Unfurnished,87.43
+965.0,2,1,18.0,1,20,7.29,Jayanagar,Semi-Furnished,80.68
+,2,3,,2,16,0.25,Yelahanka,Semi-Furnished,88.0
+1239.0,3,2,22.0,2,14,4.89,Koramangala,Semi-Furnished,137.29
+1616.0,3,2,21.0,1,6,1.06,Yelahanka,Unfurnished,89.22
+921.0,2,3,7.0,0,12,10.7,Whitefield,Semi-Furnished,68.87
+1047.0,2,3,26.0,1,13,0.76,Electronic City,Semi-Furnished,60.92
+1503.0,3,4,26.0,0,13,0.48,HSR Layout,Unfurnished,113.98
+1918.0,3,4,18.0,1,18,4.96,Indiranagar,Unfurnished,222.44
+1171.0,2,1,9.0,0,14,1.82,Whitefield,Unfurnished,92.59
+1122.0,2,2,10.0,2,4,1.74,Jayanagar,Unfurnished,121.52
+1620.0,4,5,13.0,0,4,1.3,Indiranagar,Unfurnished,197.96
+497.0,1,1,5.0,1,13,1.49,Hebbal,Furnished,58.08
+2174.0,4,3,9.0,1,18,5.12,HSR Layout,Semi-Furnished,202.19
+1138.0,2,1,4.0,1,19,1.09,Indiranagar,Furnished,177.64
+,3,4,,1,12,,Yelahanka,,132.88
+1112.0,2,3,23.0,2,11,0.99,Whitefield,Unfurnished,80.36
+480.0,1,1,3.0,1,17,2.68,Hebbal,Semi-Furnished,44.24
+2121.0,4,3,14.0,1,20,1.71,Hebbal,Furnished,160.9
+803.0,2,2,13.0,1,0,3.49,HSR Layout,Semi-Furnished,81.74
+1624.0,4,3,1.0,2,6,3.82,Indiranagar,Semi-Furnished,231.52
+955.0,2,3,25.0,2,7,6.99,Whitefield,Semi-Furnished,68.41
+2001.0,4,5,30.0,1,11,10.25,Yelahanka,Unfurnished,93.46
+2181.0,4,4,19.0,1,6,1.41,Yelahanka,Semi-Furnished,119.46
+1620.0,3,4,20.0,0,6,4.14,Koramangala,Furnished,172.8
+1040.0,2,1,7.0,0,0,1.69,Whitefield,Furnished,80.04
+1307.0,3,4,26.0,0,0,3.74,Whitefield,Unfurnished,81.7
+1455.0,3,3,24.0,0,9,3.63,Whitefield,Semi-Furnished,97.05
+1465.0,4,4,13.0,0,20,3.55,Jayanagar,Unfurnished,156.77
+819.0,2,1,21.0,2,6,4.37,Yelahanka,Furnished,49.03
+1248.0,2,1,29.0,2,5,2.81,Koramangala,Unfurnished,111.76
+957.0,2,1,18.0,2,5,1.83,Hebbal,Furnished,69.62
+1642.0,3,3,6.0,1,20,2.7,Koramangala,Furnished,220.91
+2686.0,5,4,10.0,1,13,9.74,Indiranagar,Unfurnished,325.74
+426.0,1,1,5.0,0,13,1.55,Electronic City,Unfurnished,29.44
+1583.0,3,3,10.0,1,3,1.95,Hebbal,Furnished,118.41
+1630.0,4,5,27.0,1,18,1.32,Jayanagar,Unfurnished,138.61
+422.0,1,1,5.0,1,4,0.38,Whitefield,Semi-Furnished,38.19
+760.0,1,1,27.0,2,20,2.37,Koramangala,Furnished,80.46
+1335.0,3,4,8.0,2,20,3.93,Indiranagar,Semi-Furnished,195.94
+1302.0,3,3,15.0,1,11,1.14,Indiranagar,Semi-Furnished,152.13
+791.0,1,1,16.0,1,18,6.28,Yelahanka,Semi-Furnished,52.39
+1428.0,4,3,3.0,0,20,3.41,Jayanagar,Unfurnished,163.46
+1473.0,3,4,5.0,0,12,5.15,Indiranagar,Furnished,200.58
+1731.0,4,4,9.0,0,16,3.18,Yelahanka,Unfurnished,110.67
+2091.0,4,3,1.0,0,12,2.2,HSR Layout,Unfurnished,207.63
+1369.0,3,4,23.0,1,11,1.86,Electronic City,Unfurnished,77.37
+1552.0,3,4,16.0,1,7,3.08,HSR Layout,Furnished,144.98
+865.0,2,3,26.0,0,13,3.29,Koramangala,Unfurnished,82.14
+1425.0,3,2,26.0,2,5,1.65,Yelahanka,Furnished,79.04
+587.0,1,1,10.0,1,4,2.16,Whitefield,Semi-Furnished,53.73
+1843.0,3,2,25.0,1,5,8.52,Koramangala,Furnished,174.71
+1210.0,2,1,1.0,1,0,2.74,Koramangala,Furnished,141.91
+1210.0,3,3,13.0,1,19,2.95,Indiranagar,Furnished,168.17
+585.0,1,1,20.0,1,5,7.17,Koramangala,Furnished,57.27
+1332.0,2,3,14.0,1,16,3.32,Whitefield,Unfurnished,102.98
+954.0,2,1,22.0,2,9,2.48,Hebbal,Furnished,71.61
+1725.0,3,4,26.0,1,7,5.05,Yelahanka,Semi-Furnished,86.72
+1289.0,3,4,13.0,1,4,4.28,Whitefield,Semi-Furnished,106.49
+558.0,1,1,8.0,0,17,3.01,Indiranagar,Furnished,84.95
+2023.0,4,4,18.0,2,10,3.2,Electronic City,Furnished,112.74
+1971.0,4,4,26.0,1,9,2.0,Yelahanka,Semi-Furnished,99.01
+931.0,2,1,30.0,1,13,0.93,Hebbal,Semi-Furnished,59.31
+1246.0,3,2,25.0,2,16,3.86,Jayanagar,Semi-Furnished,105.17
+1084.0,2,3,7.0,1,13,0.61,Electronic City,Semi-Furnished,73.78
+1143.0,2,3,6.0,0,9,0.96,HSR Layout,Semi-Furnished,133.34
+1709.0,3,3,17.0,1,18,2.13,Koramangala,Semi-Furnished,176.74
+653.0,1,1,12.0,1,18,1.97,Jayanagar,Unfurnished,73.17
+1928.0,4,3,18.0,2,20,4.15,Jayanagar,Unfurnished,177.49
+1650.0,4,5,28.0,1,1,4.93,Whitefield,Furnished,121.4
+2136.0,4,4,17.0,1,18,9.32,Hebbal,Semi-Furnished,135.46
+1546.0,3,3,11.0,1,4,0.52,Whitefield,Furnished,130.88
+1195.0,3,2,26.0,1,13,3.53,Hebbal,Semi-Furnished,72.53
+2120.0,5,6,13.0,0,13,3.43,Jayanagar,Unfurnished,211.87
+1071.0,2,2,18.0,2,4,3.13,Koramangala,Unfurnished,119.29
+584.0,1,1,4.0,0,0,3.85,HSR Layout,Unfurnished,53.93
+1397.0,3,4,15.0,2,19,4.44,Whitefield,Furnished,128.91
+1137.0,2,2,13.0,2,18,6.41,Electronic City,Unfurnished,71.51
+1004.0,2,3,3.0,0,3,3.2,Yelahanka,Semi-Furnished,72.87
+646.0,1,1,6.0,1,12,7.74,Whitefield,Furnished,58.14
+1017.0,3,3,21.0,2,3,3.21,HSR Layout,Furnished,99.38
+1018.0,2,3,5.0,1,11,1.76,Yelahanka,Unfurnished,73.47
+889.0,2,2,4.0,1,6,3.0,Indiranagar,Unfurnished,133.97
+398.0,1,2,1.0,0,15,1.23,Koramangala,Unfurnished,59.86
+1049.0,2,1,0.0,0,12,1.29,HSR Layout,Unfurnished,114.22
+1735.0,4,5,13.0,1,10,2.28,Electronic City,Unfurnished,99.53
+1118.0,2,2,15.0,0,14,2.03,Hebbal,Semi-Furnished,80.3
+1844.0,3,2,19.0,1,9,6.29,Indiranagar,Furnished,210.86
+1858.0,3,2,17.0,1,0,2.25,Yelahanka,Semi-Furnished,658.4399999999999
+876.0,2,3,16.0,0,12,1.08,Electronic City,Semi-Furnished,51.45
+1913.0,4,4,30.0,2,16,2.6,Indiranagar,Unfurnished,187.77
+,3,4,,2,10,,Yelahanka,,121.7
+1515.0,3,2,22.0,2,3,2.82,Yelahanka,Semi-Furnished,87.07
+803.0,1,1,2.0,0,0,1.03,HSR Layout,Furnished,81.1
+569.0,1,2,26.0,1,6,6.76,Whitefield,Furnished,40.32
+2964.0,5,5,11.0,2,16,0.45,Electronic City,Unfurnished,162.43
+1626.0,3,4,10.0,1,6,2.78,Electronic City,Unfurnished,96.56
+1722.0,4,5,4.0,1,20,1.0,Koramangala,Unfurnished,218.49
+2197.0,4,4,15.0,1,6,5.25,Hebbal,Semi-Furnished,147.64
+552.0,1,2,12.0,1,8,3.55,Jayanagar,Furnished,62.06
+1458.0,3,4,30.0,1,15,3.19,Whitefield,Semi-Furnished,93.47
+1063.0,2,1,5.0,1,12,2.12,Hebbal,Furnished,88.19
+1375.0,3,2,12.0,0,0,6.36,Koramangala,Semi-Furnished,154.73
+645.0,1,1,27.0,2,1,2.12,Hebbal,Unfurnished,45.41
+1009.0,2,3,25.0,1,4,8.2,HSR Layout,Unfurnished,77.12
+1081.0,3,2,23.0,0,18,1.25,Whitefield,Semi-Furnished,76.77
+1470.0,3,2,16.0,1,0,2.62,Yelahanka,Semi-Furnished,74.73
+1171.0,3,3,27.0,1,1,4.36,Koramangala,Semi-Furnished,107.35
+971.0,2,1,6.0,1,16,3.72,Electronic City,Unfurnished,59.76
+1154.0,2,1,25.0,2,13,2.46,Koramangala,Semi-Furnished,121.53
+2494.0,5,6,17.0,1,20,0.52,Yelahanka,Unfurnished,156.64
+1056.0,2,3,10.0,1,4,2.93,Hebbal,Furnished,90.61
+1052.0,2,2,6.0,2,13,1.92,Jayanagar,Unfurnished,135.09
+1485.0,3,4,16.0,1,2,1.57,HSR Layout,Unfurnished,131.09
+959.0,2,2,0.0,1,12,4.54,HSR Layout,Semi-Furnished,105.78
+1296.0,3,3,22.0,0,2,0.41,Hebbal,Semi-Furnished,90.88
+1025.0,2,2,7.0,0,19,2.53,Jayanagar,Semi-Furnished,119.92
+1996.0,4,5,12.0,1,8,0.12,Jayanagar,Semi-Furnished,217.47
+1417.0,4,3,5.0,1,5,3.74,Whitefield,Furnished,142.46
+1827.0,4,4,14.0,1,20,4.57,Hebbal,Semi-Furnished,141.56
+1255.0,3,2,11.0,1,1,2.9,Whitefield,Semi-Furnished,99.33
+1048.0,2,3,5.0,1,16,1.78,Indiranagar,Semi-Furnished,148.77
+1305.0,3,3,27.0,2,10,6.3,Jayanagar,Unfurnished,118.04
+1871.0,4,3,23.0,2,14,6.59,Indiranagar,Semi-Furnished,199.03
+1749.0,3,3,12.0,1,5,3.31,Jayanagar,Unfurnished,175.65
+1481.0,3,3,1.0,2,18,7.26,HSR Layout,Semi-Furnished,169.24
+1489.0,3,2,26.0,2,9,1.25,Koramangala,Unfurnished,153.55
+1805.0,3,4,21.0,0,8,2.34,Indiranagar,Furnished,216.56
+1306.0,3,3,17.0,1,9,0.22,Electronic City,Semi-Furnished,81.92
+1265.0,2,1,18.0,1,6,0.93,Jayanagar,Furnished,134.2
+1119.0,2,2,0.0,1,6,0.86,Electronic City,Semi-Furnished,81.63
+1813.0,3,3,14.0,1,2,3.73,Yelahanka,Unfurnished,98.71
+680.0,1,1,5.0,1,10,1.0,Jayanagar,Furnished,98.02
+1992.0,4,3,20.0,2,9,1.47,Jayanagar,Semi-Furnished,-10.0
+1318.0,3,4,28.0,1,7,1.63,Electronic City,Furnished,71.58
+865.0,2,2,16.0,1,20,0.77,Indiranagar,Semi-Furnished,106.32
+1437.0,3,3,18.0,2,2,2.73,HSR Layout,Semi-Furnished,131.93
+1543.0,3,4,20.0,2,19,3.12,Whitefield,Furnished,121.92
+1352.0,3,3,28.0,2,18,0.59,Indiranagar,Semi-Furnished,151.12
+822.0,2,1,1.0,1,0,4.15,Yelahanka,Unfurnished,56.66
+1702.0,4,4,9.0,0,14,1.18,HSR Layout,Semi-Furnished,165.67
+1109.0,2,2,8.0,1,4,1.61,Whitefield,Semi-Furnished,95.68
+1655.0,3,2,22.0,1,0,3.57,Hebbal,Furnished,117.6
+477.0,1,1,13.0,1,18,1.62,Yelahanka,Semi-Furnished,35.77
+1326.0,3,2,23.0,2,2,0.95,Jayanagar,Semi-Furnished,119.43
+1474.0,3,4,14.0,1,6,2.61,Indiranagar,Furnished,203.88
+1802.0,3,2,30.0,1,2,5.29,HSR Layout,Semi-Furnished,125.24
+1135.0,2,2,23.0,1,2,4.85,Electronic City,Semi-Furnished,56.74
+,3,4,,1,1,1.49,Koramangala,Semi-Furnished,191.32
+1409.0,3,3,30.0,1,17,1.1,Indiranagar,Unfurnished,133.41
+786.0,2,1,29.0,1,1,1.31,Koramangala,Semi-Furnished,71.97
+1799.0,4,5,1.0,0,15,4.89,Yelahanka,Unfurnished,117.57
+1630.0,3,3,12.0,2,3,1.29,Hebbal,Unfurnished,121.91
+1865.0,5,4,30.0,0,19,7.02,Jayanagar,Semi-Furnished,153.78
+1755.0,5,5,25.0,1,17,3.53,Jayanagar,Semi-Furnished,142.84
+1702.0,4,3,14.0,2,13,2.39,Yelahanka,Furnished,107.01
+1384.0,3,3,16.0,0,17,1.47,Whitefield,Unfurnished,96.33
+1553.0,3,2,0.0,0,6,2.64,Yelahanka,Unfurnished,111.71
+1108.0,2,3,17.0,1,16,0.94,Whitefield,Furnished,92.64
+1724.0,3,4,20.0,1,4,0.61,HSR Layout,Unfurnished,146.8
+1062.0,3,4,11.0,0,12,3.56,Electronic City,Unfurnished,58.28
+1655.0,3,4,9.0,0,19,2.38,Indiranagar,Unfurnished,210.62
+1810.0,4,3,25.0,0,15,4.25,Koramangala,Semi-Furnished,180.54
+748.0,1,1,13.0,1,5,3.04,Koramangala,Furnished,94.5
+733.0,2,3,8.0,1,15,1.45,Jayanagar,Furnished,95.84
+1368.0,3,3,11.0,2,18,4.85,Indiranagar,Semi-Furnished,163.65
+1263.0,2,2,15.0,2,18,1.6,Indiranagar,Unfurnished,156.64
+627.0,1,2,8.0,0,15,5.81,Yelahanka,Semi-Furnished,44.64
+668.0,2,2,17.0,1,15,1.56,Koramangala,Semi-Furnished,78.54
+1831.0,4,5,26.0,0,16,0.72,Yelahanka,Unfurnished,100.38
+658.0,2,3,23.0,1,15,6.54,Yelahanka,Unfurnished,45.48
+630.0,1,1,7.0,1,2,1.51,Electronic City,Unfurnished,39.23
+691.0,1,2,14.0,2,16,1.61,Koramangala,Unfurnished,94.52
+1092.0,2,1,16.0,1,3,0.75,Koramangala,Semi-Furnished,124.13
+908.0,2,1,21.0,1,11,2.23,Indiranagar,Semi-Furnished,112.7
+1681.0,3,4,23.0,1,7,0.85,Electronic City,Unfurnished,97.09
+1545.0,3,4,15.0,2,4,6.28,Koramangala,Semi-Furnished,161.22
+707.0,2,1,9.0,1,5,1.81,HSR Layout,Furnished,81.58
+1532.0,3,3,20.0,1,1,1.12,Whitefield,Semi-Furnished,120.28
+1065.0,2,2,3.0,2,9,2.54,Electronic City,Furnished,75.08
+955.0,2,2,20.0,1,8,10.09,Whitefield,Semi-Furnished,63.11
+1478.0,4,5,27.0,1,8,2.63,Hebbal,Furnished,96.97
+1627.0,3,2,21.0,1,1,2.02,Whitefield,Unfurnished,107.79
+1570.0,4,5,13.0,1,12,2.49,Koramangala,Semi-Furnished,186.6
+1033.0,2,1,25.0,1,3,4.4,Koramangala,Unfurnished,93.68
+1021.0,2,1,16.0,0,17,4.13,Jayanagar,Semi-Furnished,105.58
+1112.0,2,2,16.0,1,0,2.98,Whitefield,Semi-Furnished,74.36
+819.0,2,1,26.0,1,1,4.99,HSR Layout,Unfurnished,57.52
+2134.0,5,5,5.0,2,6,2.6,Electronic City,Furnished,152.05
+559.0,1,1,24.0,1,8,2.15,Electronic City,Unfurnished,32.99
+2098.0,4,4,21.0,2,20,2.56,Hebbal,Unfurnished,134.61
+2503.0,4,3,16.0,2,11,1.57,Jayanagar,Unfurnished,253.16
+1111.0,3,4,2.0,1,7,4.47,HSR Layout,Semi-Furnished,134.88
+1156.0,2,1,23.0,0,17,1.5,Jayanagar,Unfurnished,101.73
+1360.0,3,2,6.0,1,5,0.33,Indiranagar,Semi-Furnished,180.95
+1192.0,2,2,27.0,1,18,0.61,Yelahanka,Unfurnished,69.69
+1193.0,3,4,24.0,1,8,3.2,Electronic City,Furnished,74.66
+754.0,2,2,11.0,0,6,1.3,Hebbal,Furnished,58.77
+1815.0,4,5,13.0,1,6,4.2,Yelahanka,Semi-Furnished,-10.0
+1435.0,3,4,0.0,1,0,2.4,Jayanagar,Semi-Furnished,189.08
+1439.0,3,4,15.0,1,14,4.45,Jayanagar,Furnished,155.97
+1621.0,3,2,1.0,2,12,0.36,Electronic City,Furnished,107.75
+1370.0,3,4,30.0,1,13,1.49,Whitefield,Semi-Furnished,94.79
+1517.0,4,3,19.0,1,13,1.09,HSR Layout,Furnished,137.79
+1139.0,2,3,7.0,1,0,11.41,Koramangala,Furnished,125.35
+2195.0,5,6,24.0,1,18,1.71,Yelahanka,Furnished,116.69
+1640.0,3,2,0.0,1,10,0.6,Koramangala,Semi-Furnished,247.8
+1787.0,4,3,17.0,1,14,3.16,Koramangala,Unfurnished,181.51
+835.0,2,3,3.0,1,0,1.0,Koramangala,Unfurnished,115.29
+1962.0,4,3,1.0,1,15,4.77,Hebbal,Semi-Furnished,170.69
+1256.0,2,3,7.0,0,14,5.34,Electronic City,Semi-Furnished,77.7
+1470.0,3,3,9.0,2,7,1.1,Yelahanka,Semi-Furnished,105.45
+799.0,2,2,22.0,2,19,1.33,HSR Layout,Semi-Furnished,83.46
+,2,3,,1,13,,Indiranagar,,92.18
+1282.0,2,1,24.0,1,19,4.87,Whitefield,Furnished,86.89
+762.0,2,2,22.0,1,17,3.2,Whitefield,Unfurnished,56.33
+897.0,2,3,17.0,1,4,1.71,Indiranagar,Unfurnished,108.09
+2034.0,4,3,11.0,1,20,0.72,Yelahanka,Furnished,139.66
+905.0,2,1,7.0,1,15,7.45,Electronic City,Furnished,60.93
+1623.0,3,2,29.0,2,3,3.25,Yelahanka,Furnished,89.96
+566.0,1,1,16.0,1,16,8.52,Whitefield,Furnished,49.56
+1598.0,3,2,17.0,1,9,3.6,Whitefield,Furnished,116.65
+1569.0,3,2,0.0,1,18,7.79,Jayanagar,Unfurnished,150.88
+978.0,2,3,14.0,1,3,1.23,Whitefield,Semi-Furnished,77.91
+1333.0,3,3,21.0,1,5,1.31,Whitefield,Unfurnished,87.16
+,4,4,,2,7,,HSR Layout,,164.64
+,3,3,,0,9,1.14,Yelahanka,Furnished,78.77
+1104.0,2,3,25.0,1,13,0.5,Hebbal,Unfurnished,76.29
+1075.0,2,2,0.0,1,4,1.43,Whitefield,Semi-Furnished,113.79
+1773.0,3,3,28.0,2,14,3.56,Jayanagar,Unfurnished,151.32
+1067.0,2,3,25.0,1,0,0.81,Jayanagar,Unfurnished,105.67
+1670.0,3,2,13.0,1,6,0.9,Jayanagar,Unfurnished,177.25
+990.0,2,2,23.0,1,13,1.51,Yelahanka,Unfurnished,61.86
+1384.0,3,4,2.0,1,5,1.03,Koramangala,Furnished,197.85
+558.0,1,1,9.0,2,9,1.59,Yelahanka,Semi-Furnished,43.02
+506.0,1,2,3.0,2,12,2.21,Indiranagar,Furnished,85.84
+2479.0,5,6,19.0,2,5,0.87,Jayanagar,Semi-Furnished,247.45
+1666.0,4,4,26.0,2,20,1.54,Electronic City,Unfurnished,86.79
+1577.0,4,5,18.0,0,17,2.37,Jayanagar,Unfurnished,143.85
+2037.0,4,3,22.0,1,20,1.19,Hebbal,Furnished,149.03
+927.0,2,1,4.0,1,10,0.72,Hebbal,Unfurnished,74.52
+846.0,2,3,28.0,1,7,1.26,Electronic City,Furnished,44.02
+1167.0,2,1,5.0,1,20,1.79,Jayanagar,Unfurnished,126.66
+1334.0,3,3,16.0,1,15,0.47,Hebbal,Semi-Furnished,102.84
+1021.0,2,2,21.0,0,16,3.6,Koramangala,Furnished,105.36
+1969.0,4,4,26.0,1,3,1.87,Jayanagar,Unfurnished,162.2
+597.0,1,2,28.0,1,18,1.27,Electronic City,Unfurnished,38.99
+1133.0,2,1,18.0,2,11,0.56,Indiranagar,Furnished,153.32
+1276.0,2,2,17.0,1,16,3.28,Electronic City,Unfurnished,68.72
+1003.0,2,1,12.0,1,17,5.37,Yelahanka,Semi-Furnished,60.18
+875.0,2,1,17.0,2,2,1.48,Jayanagar,Semi-Furnished,88.96
+1297.0,3,2,20.0,2,2,8.03,Jayanagar,Unfurnished,116.81
+873.0,2,3,20.0,1,1,2.29,HSR Layout,Furnished,88.13
+1000.0,3,2,18.0,2,13,2.35,Jayanagar,Furnished,113.7
+1719.0,4,5,13.0,1,19,4.34,HSR Layout,Semi-Furnished,1085.76
+1194.0,3,3,6.0,1,0,3.4,Hebbal,Furnished,112.26
+1494.0,3,3,1.0,0,2,0.81,Hebbal,Unfurnished,119.79
+1173.0,2,3,13.0,1,10,1.44,Koramangala,Unfurnished,151.86
+916.0,2,3,12.0,1,8,4.86,Indiranagar,Semi-Furnished,116.82
+1098.0,2,1,18.0,0,2,3.45,Whitefield,Furnished,83.15
+2476.0,5,6,27.0,1,12,8.08,Koramangala,Unfurnished,220.4
+1158.0,3,4,21.0,1,19,3.08,HSR Layout,Unfurnished,92.92
+1026.0,2,3,24.0,1,4,3.54,HSR Layout,Semi-Furnished,81.88
+569.0,2,1,17.0,0,0,1.26,Koramangala,Furnished,60.22
+1564.0,4,4,28.0,0,4,5.32,HSR Layout,Unfurnished,98.0
+1302.0,3,3,29.0,1,3,0.21,Electronic City,Semi-Furnished,67.22
+1472.0,3,3,4.0,2,9,2.67,Koramangala,Semi-Furnished,223.7
+1585.0,4,4,19.0,2,2,3.61,Indiranagar,Semi-Furnished,182.35
+1201.0,3,3,15.0,1,7,2.93,Indiranagar,Unfurnished,151.61
+,3,3,,1,2,,Electronic City,,58.3
+971.0,2,2,18.0,1,14,2.1,Indiranagar,Semi-Furnished,121.71
+544.0,1,2,0.0,2,9,2.37,Hebbal,Semi-Furnished,58.69
+2498.0,5,6,6.0,0,1,0.93,Indiranagar,Furnished,355.88
+1345.0,3,2,4.0,1,0,2.92,HSR Layout,Semi-Furnished,146.28
+849.0,2,2,6.0,1,10,1.27,HSR Layout,Semi-Furnished,100.95
+1341.0,3,4,2.0,1,12,1.49,Koramangala,Furnished,203.0
+632.0,1,1,24.0,0,3,0.83,Hebbal,Semi-Furnished,41.07
+1763.0,4,5,15.0,0,6,13.07,Koramangala,Semi-Furnished,177.65
+1082.0,2,1,20.0,1,12,2.77,Indiranagar,Furnished,118.03
+1683.0,3,3,30.0,1,9,0.68,Jayanagar,Unfurnished,143.05
+1621.0,3,4,20.0,1,2,2.56,Yelahanka,Semi-Furnished,85.63
+771.0,2,3,14.0,0,8,5.27,Hebbal,Furnished,62.57
+410.0,1,1,8.0,2,4,2.89,Yelahanka,Unfurnished,35.99
+1585.0,3,3,23.0,1,19,2.25,Jayanagar,Semi-Furnished,139.09
+948.0,2,2,15.0,2,16,1.18,HSR Layout,Unfurnished,94.19
+669.0,1,2,23.0,0,6,2.9,Jayanagar,Unfurnished,66.93
+1369.0,3,3,0.0,2,4,4.02,Indiranagar,Semi-Furnished,201.76
+960.0,2,1,5.0,2,2,4.05,HSR Layout,Unfurnished,92.4
+1028.0,2,1,4.0,2,15,2.7,Electronic City,Furnished,80.34
+1070.0,2,2,21.0,2,19,2.69,Yelahanka,Furnished,69.67
+1863.0,4,5,16.0,1,5,5.88,Jayanagar,Furnished,166.15
+1143.0,2,2,9.0,1,13,5.46,HSR Layout,Unfurnished,114.29
+898.0,2,3,9.0,1,4,2.01,Hebbal,Unfurnished,69.53
+1031.0,2,3,18.0,1,19,7.62,Koramangala,Unfurnished,111.83
+885.0,2,2,29.0,2,6,0.69,Jayanagar,Unfurnished,75.88
+1154.0,2,3,30.0,1,2,2.79,Electronic City,Furnished,59.41
+635.0,1,1,14.0,1,18,3.0,Electronic City,Semi-Furnished,44.27
+908.0,2,2,20.0,2,19,1.12,Jayanagar,Unfurnished,81.63
+1152.0,2,3,2.0,1,8,0.55,Hebbal,Furnished,112.56
+1366.0,4,4,29.0,0,19,1.15,Whitefield,Semi-Furnished,90.4
+510.0,1,1,0.0,1,5,4.6,Indiranagar,Unfurnished,80.49
+849.0,2,2,10.0,2,5,4.7,Koramangala,Unfurnished,106.48
+1824.0,4,5,22.0,2,11,3.87,Hebbal,Semi-Furnished,132.81
+1927.0,4,3,30.0,0,12,1.29,Whitefield,Furnished,117.06
+1516.0,3,2,5.0,1,8,4.74,Koramangala,Unfurnished,174.24
+819.0,2,2,20.0,1,16,1.37,Electronic City,Furnished,53.37
+891.0,2,1,5.0,1,16,2.92,Hebbal,Furnished,79.65
+1338.0,2,2,1.0,1,2,2.36,Electronic City,Furnished,99.48
+1240.0,2,2,13.0,2,20,1.73,Jayanagar,Unfurnished,134.94
+1110.0,2,2,17.0,1,3,3.73,Yelahanka,Unfurnished,58.64
+1561.0,3,2,8.0,1,11,4.27,Koramangala,Furnished,189.16
+927.0,2,1,30.0,1,8,1.23,Yelahanka,Unfurnished,49.36
+1591.0,3,3,19.0,1,9,2.47,Electronic City,Semi-Furnished,86.1
+1046.0,2,3,13.0,1,2,4.12,Hebbal,Furnished,81.82
+1088.0,2,3,15.0,0,7,0.1,Whitefield,Unfurnished,89.52
+,3,3,,0,0,,Electronic City,,439.26
+1889.0,4,3,3.0,2,20,4.18,Hebbal,Furnished,147.04
+1043.0,2,1,18.0,0,3,3.31,Electronic City,Semi-Furnished,48.89
+1467.0,3,3,24.0,1,10,3.43,Whitefield,Semi-Furnished,102.53
+1192.0,2,1,13.0,2,4,2.23,Electronic City,Furnished,73.86
+507.0,1,2,13.0,0,3,3.98,Yelahanka,Semi-Furnished,29.23
+1230.0,3,3,28.0,1,8,0.78,Hebbal,Semi-Furnished,84.8
+1238.0,2,3,18.0,1,20,1.15,Koramangala,Furnished,153.66
+1260.0,2,1,9.0,1,10,3.39,Yelahanka,Semi-Furnished,83.52
+999.0,2,2,0.0,1,20,3.99,Yelahanka,Unfurnished,77.97
+823.0,2,3,25.0,1,17,5.3,Koramangala,Unfurnished,78.26
+494.0,1,1,19.0,1,9,6.87,Jayanagar,Unfurnished,49.39
+954.0,2,3,19.0,0,18,1.31,HSR Layout,Semi-Furnished,96.15
+2140.0,4,4,8.0,0,7,0.92,Electronic City,Semi-Furnished,138.35
+1243.0,3,3,5.0,1,10,4.53,HSR Layout,Semi-Furnished,138.15
+1096.0,2,2,15.0,1,14,1.67,Jayanagar,Semi-Furnished,121.35
+636.0,1,2,23.0,2,12,2.3,Yelahanka,Furnished,42.73
+1388.0,3,4,9.0,0,17,4.21,Jayanagar,Furnished,159.17
+611.0,1,1,16.0,1,3,2.78,Yelahanka,Unfurnished,35.62
+1114.0,3,3,30.0,1,10,3.89,Yelahanka,Semi-Furnished,63.41
+1588.0,3,4,6.0,1,13,1.2,Whitefield,Semi-Furnished,154.28
+1144.0,2,1,7.0,1,6,3.03,Indiranagar,Semi-Furnished,144.95
+985.0,2,2,7.0,0,18,2.98,Hebbal,Unfurnished,79.01
+596.0,1,2,28.0,1,6,5.23,Electronic City,Furnished,34.46
+550.0,1,1,16.0,1,6,6.04,Whitefield,Furnished,47.99
+1016.0,2,2,28.0,2,6,1.64,Whitefield,Semi-Furnished,65.01
+2115.0,4,4,29.0,0,14,1.02,Electronic City,Furnished,88.21
+1143.0,2,1,13.0,1,2,4.05,Electronic City,Furnished,66.13
+1603.0,3,2,1.0,1,3,0.49,Koramangala,Semi-Furnished,187.99
+1764.0,3,3,9.0,1,16,4.26,Koramangala,Semi-Furnished,216.76
+374.0,1,1,16.0,0,4,4.49,Koramangala,Semi-Furnished,42.96
+1033.0,2,3,11.0,1,2,1.54,Electronic City,Furnished,73.03
+992.0,2,2,0.0,1,5,0.14,Whitefield,Unfurnished,90.41
+1396.0,3,4,30.0,1,8,4.82,Electronic City,Semi-Furnished,67.15
+1026.0,2,2,9.0,1,0,6.33,HSR Layout,Furnished,106.83
+1311.0,3,2,19.0,0,17,6.04,HSR Layout,Unfurnished,99.1
+1790.0,4,4,29.0,1,2,6.18,Hebbal,Furnished,110.8
+1375.0,3,4,16.0,2,8,0.73,Electronic City,Semi-Furnished,88.82
+2443.0,5,5,21.0,1,4,2.53,Hebbal,Furnished,162.56
+1618.0,3,2,1.0,1,6,2.97,Jayanagar,Furnished,203.23
+1931.0,4,3,21.0,1,0,2.65,Yelahanka,Unfurnished,99.3
+1977.0,4,4,26.0,1,19,3.92,Jayanagar,Furnished,187.51
+1394.0,3,4,28.0,1,19,0.96,Electronic City,Unfurnished,71.78
+1405.0,3,3,2.0,1,2,0.48,HSR Layout,Semi-Furnished,161.54
+1611.0,4,3,7.0,1,4,0.33,Koramangala,Semi-Furnished,202.16
+1013.0,2,1,1.0,0,18,4.89,Electronic City,Furnished,65.08
+1454.0,3,3,28.0,2,8,0.72,Koramangala,Unfurnished,142.41
+1765.0,3,3,8.0,2,1,2.63,Yelahanka,Unfurnished,107.81
+2074.0,4,3,16.0,1,2,1.48,Jayanagar,Semi-Furnished,216.56
+1154.0,2,3,14.0,2,8,1.53,Whitefield,Semi-Furnished,103.28
+1508.0,3,2,21.0,2,11,2.06,Jayanagar,Semi-Furnished,139.82
+1381.0,3,2,27.0,1,13,1.59,Whitefield,Unfurnished,91.15
+1981.0,5,5,10.0,1,3,0.48,Hebbal,Unfurnished,146.45
+971.0,2,3,24.0,1,7,2.06,Whitefield,Furnished,67.33
+1365.0,3,3,9.0,1,5,1.23,HSR Layout,Unfurnished,132.32
+1629.0,3,4,6.0,0,11,1.17,Hebbal,Semi-Furnished,135.02
+1981.0,4,3,3.0,1,6,7.57,Hebbal,Furnished,164.74
+2085.0,4,4,11.0,2,4,0.61,HSR Layout,Unfurnished,207.5
+1283.0,3,2,17.0,1,17,1.99,Yelahanka,Semi-Furnished,85.33
+1411.0,3,2,24.0,2,11,2.81,Jayanagar,Unfurnished,119.1
+1142.0,2,2,26.0,1,9,7.57,Koramangala,Furnished,107.37
+2408.0,5,4,16.0,1,2,0.87,Hebbal,Semi-Furnished,189.46
+909.0,2,1,12.0,1,1,5.83,Hebbal,Furnished,60.35
+1527.0,3,2,5.0,1,16,2.05,Indiranagar,Unfurnished,202.7
+1488.0,3,4,28.0,0,20,2.11,Hebbal,Semi-Furnished,88.52
+993.0,2,2,12.0,1,12,3.76,Yelahanka,Furnished,68.24
+1177.0,2,2,23.0,0,0,6.46,Jayanagar,Unfurnished,90.06
+1374.0,2,3,19.0,0,10,1.58,Jayanagar,Unfurnished,133.24
+1894.0,4,4,28.0,1,5,2.96,Hebbal,Unfurnished,111.59
+1546.0,3,4,30.0,1,1,2.67,Indiranagar,Furnished,144.97
+505.0,1,1,21.0,1,2,2.57,Jayanagar,Semi-Furnished,48.38
+1286.0,3,2,20.0,1,10,4.23,Indiranagar,Semi-Furnished,144.79
+,2,1,,2,8,,Electronic City,,83.8
+1991.0,4,3,0.0,1,11,1.77,Indiranagar,Semi-Furnished,339.3
+350.0,2,1,16.0,2,14,0.49,Indiranagar,Semi-Furnished,58.12
+1076.0,2,1,21.0,1,5,3.55,Koramangala,Semi-Furnished,104.02
+671.0,1,1,23.0,0,6,2.48,Yelahanka,Semi-Furnished,35.51
+1163.0,3,4,7.0,2,14,6.35,Koramangala,Unfurnished,147.78
+1045.0,2,1,15.0,2,4,0.85,Whitefield,Furnished,86.96
+911.0,3,2,26.0,1,1,8.21,Yelahanka,Furnished,48.6
+1084.0,2,3,2.0,1,17,3.98,Electronic City,Unfurnished,65.33
+1086.0,2,1,11.0,1,4,3.86,HSR Layout,Semi-Furnished,107.82
+725.0,2,3,29.0,1,2,1.45,Hebbal,Unfurnished,46.31
+1207.0,2,2,6.0,2,15,1.92,HSR Layout,Furnished,140.84
+2199.0,4,5,9.0,1,11,1.66,Koramangala,Furnished,314.3
+1021.0,2,2,14.0,0,3,5.59,Hebbal,Furnished,67.38
+2495.0,5,5,21.0,0,17,0.41,Koramangala,Unfurnished,261.24
+932.0,2,1,7.0,0,5,2.15,Electronic City,Unfurnished,55.88
+537.0,1,1,24.0,1,14,2.29,Yelahanka,Unfurnished,35.26
+986.0,2,3,7.0,1,13,1.62,Yelahanka,Unfurnished,64.9
+619.0,1,2,11.0,2,17,1.06,Indiranagar,Unfurnished,99.44
+1680.0,3,2,17.0,1,15,0.2,Jayanagar,Unfurnished,164.44
+1180.0,3,2,0.0,1,14,2.17,Electronic City,Furnished,84.8
+652.0,2,1,23.0,1,1,3.54,HSR Layout,Unfurnished,52.29
+1398.0,3,4,20.0,1,19,2.48,Koramangala,Unfurnished,148.13
+1142.0,3,2,25.0,1,2,1.06,HSR Layout,Furnished,91.69
+1730.0,4,5,8.0,1,5,2.31,Hebbal,Semi-Furnished,142.75
+2178.0,5,5,12.0,2,9,6.4,Yelahanka,Furnished,135.52
+1060.0,3,2,27.0,2,6,1.35,Whitefield,Semi-Furnished,79.24
+1578.0,3,4,2.0,2,12,2.77,Hebbal,Furnished,153.57
+1543.0,3,4,15.0,2,1,3.06,Jayanagar,Semi-Furnished,176.4
+995.0,2,2,15.0,1,9,0.66,Yelahanka,Semi-Furnished,64.92
+1365.0,3,4,13.0,1,7,1.84,HSR Layout,Semi-Furnished,130.19
+374.0,1,2,13.0,1,13,1.86,Whitefield,Semi-Furnished,36.2
+1347.0,3,3,23.0,2,10,2.41,Indiranagar,Unfurnished,168.73
+2305.0,5,4,6.0,0,15,5.46,Jayanagar,Semi-Furnished,257.97
+609.0,1,2,27.0,1,3,0.82,Yelahanka,Unfurnished,33.99
+1898.0,4,5,27.0,0,19,5.69,Hebbal,Furnished,131.06
+2001.0,4,5,5.0,1,8,3.73,Whitefield,Unfurnished,181.36
+929.0,2,3,30.0,1,7,8.36,Whitefield,Unfurnished,52.04
+1422.0,3,3,8.0,0,11,0.29,HSR Layout,Unfurnished,137.71
+2067.0,4,4,1.0,1,3,11.45,Electronic City,Furnished,125.58
+2357.0,5,6,12.0,1,17,0.63,Whitefield,Unfurnished,179.53
+1037.0,2,3,24.0,2,5,1.13,Hebbal,Semi-Furnished,75.73
+932.0,2,1,26.0,0,19,1.14,Electronic City,Furnished,52.0
+1398.0,3,3,20.0,0,3,3.61,Whitefield,Unfurnished,84.83
+1244.0,2,2,25.0,1,18,1.97,Whitefield,Furnished,94.23
+960.0,2,3,8.0,1,8,1.3,HSR Layout,Unfurnished,109.32
+,1,2,,2,12,,Hebbal,,51.17
+1096.0,2,1,19.0,1,18,0.23,Jayanagar,Semi-Furnished,112.66
+1337.0,3,4,4.0,2,2,4.76,HSR Layout,Furnished,145.87
+1383.0,3,3,3.0,1,7,2.25,Indiranagar,Unfurnished,202.42
+1246.0,3,2,8.0,1,19,1.28,Yelahanka,Semi-Furnished,83.02
+1127.0,3,3,2.0,2,3,1.42,HSR Layout,Unfurnished,129.99
+1006.0,2,1,8.0,0,2,1.82,Indiranagar,Semi-Furnished,131.68
+1006.0,2,3,30.0,2,10,1.16,HSR Layout,Semi-Furnished,92.4
+571.0,1,2,7.0,0,0,4.25,Whitefield,Semi-Furnished,45.63
+923.0,2,3,19.0,1,20,1.69,Indiranagar,Semi-Furnished,114.62
+1280.0,2,2,30.0,0,18,3.82,Electronic City,Unfurnished,52.42
+955.0,2,2,7.0,1,3,1.44,Yelahanka,Semi-Furnished,68.66
+378.0,1,1,21.0,2,3,2.73,Hebbal,Semi-Furnished,32.78
+831.0,2,3,13.0,0,16,2.73,Jayanagar,Semi-Furnished,87.29
+1006.0,3,2,8.0,0,10,2.39,Electronic City,Unfurnished,57.36
+1735.0,3,4,29.0,1,17,5.82,Whitefield,Semi-Furnished,112.76
+2239.0,4,4,20.0,1,20,6.22,HSR Layout,Semi-Furnished,175.1
+1569.0,3,3,13.0,1,8,4.09,Yelahanka,Unfurnished,87.88
+1216.0,3,4,25.0,2,5,5.04,Whitefield,Unfurnished,89.17
+1247.0,2,1,27.0,0,13,3.93,Yelahanka,Semi-Furnished,59.58
+1339.0,3,2,24.0,1,13,1.59,Hebbal,Semi-Furnished,95.14
+473.0,1,1,26.0,1,9,2.11,Indiranagar,Unfurnished,52.1
+1242.0,2,3,9.0,1,6,0.29,Jayanagar,Furnished,150.34
+1155.0,2,1,10.0,1,5,0.99,Jayanagar,Semi-Furnished,128.65
+1350.0,2,2,7.0,1,10,0.63,Whitefield,Furnished,135.4
+991.0,2,1,21.0,1,8,1.27,Whitefield,Semi-Furnished,78.82
+1463.0,3,4,24.0,2,9,2.9,Hebbal,Semi-Furnished,109.1
+1684.0,4,5,20.0,1,2,1.54,Yelahanka,Semi-Furnished,95.46
+1160.0,3,3,18.0,1,18,4.39,Whitefield,Furnished,89.37
+1349.0,3,2,23.0,2,14,1.03,Hebbal,Semi-Furnished,101.33
+1628.0,3,3,5.0,2,19,3.7,Koramangala,Semi-Furnished,233.93
+422.0,1,2,11.0,2,17,0.95,Hebbal,Semi-Furnished,51.36
+,3,4,,1,12,5.54,Electronic City,Semi-Furnished,77.01
+1268.0,3,3,1.0,2,6,1.03,Whitefield,Unfurnished,126.24
+1004.0,2,2,28.0,2,13,3.31,Hebbal,Semi-Furnished,72.38
+1272.0,2,2,5.0,2,11,1.3,Yelahanka,Semi-Furnished,95.95
+1880.0,4,3,24.0,1,19,6.86,Jayanagar,Furnished,169.13
+1425.0,3,2,19.0,2,4,6.67,Whitefield,Semi-Furnished,101.51
+842.0,2,3,26.0,1,0,3.23,Koramangala,Semi-Furnished,80.53
+1551.0,3,3,24.0,1,2,3.18,Koramangala,Furnished,153.14
+717.0,2,3,15.0,1,3,4.16,HSR Layout,Semi-Furnished,68.22
+1174.0,2,2,23.0,1,13,3.65,Koramangala,Unfurnished,105.79
+1262.0,2,2,10.0,2,3,4.57,Jayanagar,Unfurnished,133.18
+771.0,2,2,18.0,0,2,1.01,Jayanagar,Unfurnished,73.0
+1304.0,3,4,28.0,1,8,2.39,Jayanagar,Unfurnished,115.87
+684.0,1,1,2.0,1,16,1.39,Koramangala,Semi-Furnished,107.54
+1446.0,3,3,11.0,1,8,6.6,Whitefield,Furnished,126.95
+1126.0,2,3,0.0,1,5,0.74,Yelahanka,Semi-Furnished,94.42
+1413.0,3,2,16.0,2,5,7.4,Indiranagar,Unfurnished,148.8
+1363.0,3,2,24.0,2,17,2.43,Hebbal,Semi-Furnished,87.52
+1597.0,3,2,1.0,1,9,4.62,Yelahanka,Unfurnished,112.57
+1487.0,3,3,17.0,0,7,1.53,Whitefield,Furnished,125.18
+2468.0,4,3,12.0,1,16,0.68,Whitefield,Unfurnished,211.38
+1442.0,3,3,24.0,2,7,6.42,Whitefield,Semi-Furnished,101.31
+1605.0,3,2,6.0,1,7,3.45,Koramangala,Unfurnished,170.77
+1115.0,3,2,5.0,2,15,0.81,Whitefield,Semi-Furnished,111.14
+1064.0,2,1,2.0,2,6,2.18,Jayanagar,Semi-Furnished,136.64
+1200.0,2,3,12.0,1,10,2.05,Electronic City,Furnished,84.5
+763.0,2,2,15.0,1,13,3.36,Yelahanka,Unfurnished,55.56
+728.0,2,1,28.0,1,4,1.0,Jayanagar,Furnished,70.72
+1004.0,2,2,14.0,1,2,0.8,Yelahanka,Semi-Furnished,62.2
+1098.0,2,3,5.0,1,17,2.65,Koramangala,Furnished,146.77
+1370.0,3,4,21.0,1,6,1.06,Indiranagar,Furnished,173.38
+1090.0,2,3,1.0,0,7,6.56,Jayanagar,Furnished,123.99
+1027.0,3,3,10.0,1,12,4.31,Koramangala,Unfurnished,135.11
+1151.0,2,2,20.0,0,2,4.22,Whitefield,Unfurnished,66.72
+1524.0,3,2,7.0,1,0,0.28,Hebbal,Unfurnished,123.27
+471.0,1,1,18.0,1,8,1.59,Jayanagar,Unfurnished,51.22
+1191.0,2,3,14.0,1,20,1.87,Yelahanka,Semi-Furnished,81.09
+578.0,1,1,29.0,2,12,0.91,Yelahanka,Furnished,38.29
+1689.0,3,4,8.0,1,12,3.66,Whitefield,Furnished,131.37
+916.0,2,3,28.0,0,12,3.31,Jayanagar,Semi-Furnished,76.82
+2062.0,4,5,19.0,2,18,4.1,Jayanagar,Semi-Furnished,196.72
+875.0,2,2,23.0,2,17,4.97,Hebbal,Furnished,73.68
+1578.0,3,4,5.0,1,0,4.79,Jayanagar,Furnished,175.92
+860.0,2,1,0.0,2,11,12.09,Jayanagar,Unfurnished,100.58
+1220.0,3,4,22.0,0,11,2.33,HSR Layout,Semi-Furnished,98.19
+818.0,2,2,14.0,2,4,2.03,Whitefield,Furnished,76.67
+901.0,2,3,9.0,1,20,3.63,HSR Layout,Unfurnished,83.79
+1001.0,2,1,27.0,1,5,5.59,Koramangala,Semi-Furnished,-10.0
+614.0,1,2,10.0,0,17,0.48,Whitefield,Furnished,59.18
+484.0,1,1,13.0,2,2,1.2,Whitefield,Furnished,39.87
+2643.0,5,4,22.0,1,12,1.46,Hebbal,Furnished,174.3
+930.0,2,2,29.0,1,15,2.52,Electronic City,Furnished,48.71
+572.0,1,1,27.0,0,10,1.59,Electronic City,Unfurnished,27.03
+1709.0,4,3,20.0,1,2,5.02,Hebbal,Unfurnished,104.42
+587.0,1,1,3.0,1,2,2.8,Electronic City,Semi-Furnished,38.89
+1005.0,2,3,3.0,1,12,2.16,Hebbal,Semi-Furnished,87.7
+672.0,3,2,21.0,1,18,3.33,Whitefield,Semi-Furnished,52.56
+2459.0,4,3,15.0,2,12,0.34,Jayanagar,Semi-Furnished,270.89
+1466.0,3,3,4.0,1,2,3.22,HSR Layout,Semi-Furnished,166.93
+892.0,2,2,21.0,2,16,1.09,Koramangala,Semi-Furnished,104.73
+2917.0,5,4,29.0,1,9,4.41,Jayanagar,Unfurnished,219.13
+673.0,1,1,2.0,0,1,0.41,Hebbal,Unfurnished,50.85
+2337.0,5,5,25.0,1,7,3.5,Whitefield,Unfurnished,148.82
+1797.0,4,5,10.0,0,4,1.11,Koramangala,Unfurnished,216.55
+2151.0,4,3,12.0,1,20,5.67,Whitefield,Furnished,170.8
+,2,2,,1,19,0.53,Indiranagar,Semi-Furnished,125.69
+1023.0,2,1,7.0,2,2,2.45,Whitefield,Unfurnished,89.05
+1755.0,3,4,4.0,1,12,3.96,Hebbal,Furnished,143.55
+1502.0,3,4,29.0,1,0,3.08,Electronic City,Semi-Furnished,75.32
+1411.0,3,3,10.0,1,9,3.06,Yelahanka,Unfurnished,89.03
+2221.0,4,4,5.0,0,3,0.74,Hebbal,Unfurnished,191.75
+1890.0,3,4,21.0,0,15,0.69,Electronic City,Unfurnished,99.63
+959.0,2,1,6.0,1,1,2.98,Electronic City,Semi-Furnished,66.45
+1228.0,2,1,24.0,0,18,2.64,Whitefield,Unfurnished,85.3
+944.0,2,1,2.0,0,4,0.95,Whitefield,Unfurnished,81.71
+1162.0,2,3,16.0,2,5,0.9,Electronic City,Unfurnished,68.23
+966.0,2,1,12.0,1,18,2.19,Whitefield,Semi-Furnished,79.49
+1411.0,3,2,29.0,2,18,1.74,Whitefield,Unfurnished,97.49
+1148.0,3,2,16.0,1,2,8.17,Koramangala,Furnished,125.1
+1212.0,3,4,28.0,2,2,5.9,Yelahanka,Unfurnished,62.11
+929.0,2,3,7.0,1,17,4.3,HSR Layout,Semi-Furnished,108.03
+,3,4,,0,20,,Hebbal,,99.11
+1930.0,3,2,25.0,2,10,1.37,HSR Layout,Semi-Furnished,168.09
+,4,4,,0,3,,Koramangala,,233.98
+1324.0,3,3,28.0,1,3,5.32,Indiranagar,Furnished,142.52
+,3,3,,2,5,2.44,Whitefield,Furnished,101.57
+1659.0,3,2,20.0,1,14,2.56,Jayanagar,Unfurnished,163.28
+1109.0,2,2,7.0,1,2,0.84,Koramangala,Unfurnished,147.22
+1753.0,4,3,25.0,1,13,5.16,HSR Layout,Furnished,143.37
+944.0,2,1,26.0,0,16,3.62,Yelahanka,Semi-Furnished,48.63
+1112.0,2,1,9.0,2,3,1.9,Electronic City,Unfurnished,76.26
+985.0,2,3,18.0,0,20,1.56,HSR Layout,Unfurnished,90.54
+1415.0,3,4,1.0,1,20,5.74,Electronic City,Semi-Furnished,103.15
+1803.0,3,4,12.0,1,6,1.38,Jayanagar,Semi-Furnished,190.4
+1405.0,3,3,4.0,2,2,0.6,Indiranagar,Semi-Furnished,184.5
+1032.0,2,2,17.0,2,6,5.96,Hebbal,Furnished,73.51
+990.0,2,2,17.0,1,5,6.04,Jayanagar,Semi-Furnished,97.76
+1802.0,4,3,16.0,2,5,1.38,Electronic City,Unfurnished,105.57
+920.0,2,3,20.0,0,19,9.23,HSR Layout,Semi-Furnished,80.38
+2027.0,4,5,28.0,2,3,2.23,Koramangala,Semi-Furnished,208.29
+1034.0,2,1,6.0,0,6,1.39,Koramangala,Unfurnished,129.2
+1275.0,3,2,6.0,1,16,3.54,Yelahanka,Unfurnished,82.4
+1441.0,3,2,6.0,0,1,0.72,Electronic City,Semi-Furnished,89.98
+1538.0,4,4,28.0,2,1,1.05,Indiranagar,Semi-Furnished,164.39
+1023.0,2,1,2.0,2,6,2.99,HSR Layout,Unfurnished,108.39
+1744.0,4,3,0.0,1,20,2.6,Electronic City,Semi-Furnished,125.04
+1288.0,3,3,4.0,1,17,4.6,Electronic City,Semi-Furnished,87.61
+1818.0,3,2,23.0,1,19,0.83,Hebbal,Semi-Furnished,118.36
+1449.0,3,2,17.0,1,18,8.2,Indiranagar,Furnished,166.89
+536.0,1,1,28.0,1,2,1.71,Hebbal,Furnished,40.09
+1173.0,2,3,6.0,0,8,2.53,HSR Layout,Semi-Furnished,133.38
+1052.0,2,2,12.0,1,11,1.64,Yelahanka,Unfurnished,69.73
+740.0,2,1,17.0,1,3,0.71,Koramangala,Semi-Furnished,86.18
+1541.0,3,3,2.0,2,20,2.33,Koramangala,Semi-Furnished,198.55
+,2,1,,1,12,,HSR Layout,,76.03
+644.0,1,1,24.0,1,17,2.06,Electronic City,Unfurnished,41.0
+712.0,1,1,4.0,1,5,1.16,Hebbal,Unfurnished,63.78
+965.0,2,3,26.0,0,15,4.71,HSR Layout,Semi-Furnished,67.92
+930.0,2,2,13.0,1,2,4.84,Yelahanka,Semi-Furnished,58.06
+1479.0,3,4,10.0,2,0,1.97,HSR Layout,Unfurnished,147.45
+,2,1,,0,13,,Koramangala,,108.79
+1331.0,4,3,16.0,1,1,4.69,Whitefield,Furnished,100.22
+1070.0,2,2,7.0,2,5,3.89,Yelahanka,Unfurnished,72.73
+692.0,1,1,25.0,1,16,3.07,Koramangala,Furnished,79.92
+2462.0,4,4,22.0,1,10,3.78,Yelahanka,Unfurnished,120.71
+1055.0,2,2,5.0,1,7,3.29,Indiranagar,Furnished,149.03
+911.0,2,3,20.0,1,6,2.43,Whitefield,Furnished,74.75
+1769.0,4,4,19.0,0,14,0.81,Indiranagar,Unfurnished,218.01
+2090.0,4,5,8.0,2,20,1.01,Electronic City,Furnished,153.8
+1499.0,3,3,13.0,2,15,3.4,HSR Layout,Furnished,166.77
+576.0,1,1,26.0,0,7,1.63,Jayanagar,Furnished,53.07
+1504.0,3,2,5.0,0,8,3.31,Electronic City,Furnished,103.15
+1611.0,5,6,22.0,1,2,0.79,HSR Layout,Semi-Furnished,129.56
+1987.0,4,5,25.0,1,3,1.26,Hebbal,Unfurnished,139.31
+634.0,1,1,29.0,1,5,2.06,Yelahanka,Furnished,40.81
+1028.0,2,1,10.0,1,8,0.21,HSR Layout,Semi-Furnished,110.19
+821.0,2,1,8.0,1,20,1.12,Koramangala,Semi-Furnished,117.19
+941.0,2,2,28.0,1,18,1.41,HSR Layout,Semi-Furnished,80.9
+1199.0,3,3,14.0,0,2,2.75,Jayanagar,Semi-Furnished,119.55
+993.0,2,1,17.0,0,6,1.96,Koramangala,Unfurnished,100.07
+,2,1,,1,1,,Yelahanka,,59.62
+740.0,1,1,15.0,2,1,2.5,Electronic City,Unfurnished,46.9
+1178.0,2,2,19.0,1,7,1.9,Electronic City,Semi-Furnished,67.21
+1172.0,2,2,13.0,1,20,1.41,Indiranagar,Furnished,182.1
+1215.0,2,1,12.0,2,3,2.56,Yelahanka,Semi-Furnished,79.14
+959.0,2,3,12.0,1,14,5.6,Whitefield,Semi-Furnished,74.08
+1908.0,4,5,20.0,1,8,1.41,Indiranagar,Unfurnished,236.83
+1181.0,2,1,25.0,0,11,7.98,HSR Layout,Furnished,82.64
+1733.0,3,2,17.0,1,18,2.6,HSR Layout,Semi-Furnished,153.7
+1257.0,2,2,21.0,1,17,4.44,HSR Layout,Semi-Furnished,111.6
+357.0,1,1,12.0,2,17,3.16,Koramangala,Unfurnished,55.17
+878.0,2,1,23.0,1,8,3.5,Koramangala,Unfurnished,79.54
+504.0,1,1,12.0,1,1,1.11,Whitefield,Semi-Furnished,41.9
+1117.0,2,3,13.0,0,20,1.62,Electronic City,Furnished,66.68
+1009.0,2,2,1.0,2,20,0.47,Indiranagar,Semi-Furnished,169.14
+1626.0,3,2,8.0,0,18,2.02,Electronic City,Unfurnished,102.62
+741.0,1,1,22.0,1,10,3.74,Electronic City,Furnished,40.01
+1066.0,2,1,2.0,1,5,2.03,Hebbal,Semi-Furnished,97.14
+1574.0,3,2,6.0,0,3,4.61,Electronic City,Furnished,99.2
+804.0,2,3,24.0,1,7,1.75,Hebbal,Unfurnished,54.77
+1039.0,2,1,27.0,0,7,1.33,Electronic City,Semi-Furnished,41.77
+445.0,1,1,12.0,1,5,1.56,Hebbal,Furnished,37.62
+808.0,2,3,12.0,2,19,4.0,Electronic City,Unfurnished,57.54
+962.0,2,1,15.0,1,13,6.85,Indiranagar,Semi-Furnished,124.14
+2634.0,5,5,23.0,2,4,8.52,Koramangala,Furnished,253.32
+2508.0,5,6,14.0,0,13,3.71,Jayanagar,Unfurnished,228.48
+2901.0,5,6,5.0,1,14,4.46,Indiranagar,Unfurnished,380.42
+1116.0,2,3,13.0,2,10,0.6,Electronic City,Semi-Furnished,69.87
+711.0,1,1,7.0,2,19,0.78,Koramangala,Unfurnished,103.45
+1029.0,2,3,21.0,1,20,1.15,HSR Layout,Unfurnished,90.79
+968.0,2,1,4.0,1,9,5.83,Electronic City,Semi-Furnished,58.53
+503.0,1,1,18.0,2,9,5.77,Hebbal,Furnished,45.54
+704.0,1,1,4.0,2,4,9.8,Electronic City,Unfurnished,50.48
+917.0,2,2,30.0,1,16,1.13,Indiranagar,Unfurnished,106.8
+974.0,2,3,19.0,0,19,2.22,Yelahanka,Furnished,60.14
+1099.0,2,3,4.0,0,13,0.47,Electronic City,Semi-Furnished,72.66
+1709.0,3,4,29.0,1,4,0.66,Jayanagar,Furnished,156.4
+1099.0,2,1,17.0,1,10,1.89,Hebbal,Semi-Furnished,85.88
+1851.0,4,5,18.0,1,16,1.18,Electronic City,Furnished,98.19
+1009.0,2,3,1.0,1,0,1.19,Yelahanka,Semi-Furnished,76.57
+1551.0,3,3,5.0,1,12,1.46,Koramangala,Unfurnished,193.74
+1012.0,2,1,25.0,1,13,6.28,Yelahanka,Furnished,49.53
+1078.0,2,1,14.0,1,11,5.06,Jayanagar,Semi-Furnished,100.26
+1005.0,2,3,19.0,1,13,1.0,Electronic City,Unfurnished,58.34
+1136.0,2,1,30.0,0,18,4.96,Hebbal,Unfurnished,62.37
+1491.0,3,3,13.0,2,2,1.26,Electronic City,Semi-Furnished,97.28
+1032.0,2,3,11.0,1,11,0.59,Indiranagar,Unfurnished,141.03
+1109.0,2,2,24.0,0,16,1.42,Jayanagar,Unfurnished,104.08
+2241.0,4,3,2.0,1,17,2.95,Koramangala,Unfurnished,288.17
+669.0,1,1,14.0,1,9,1.11,Indiranagar,Semi-Furnished,85.08
+1606.0,3,2,26.0,1,20,3.66,Electronic City,Semi-Furnished,79.27
+1577.0,3,2,7.0,1,6,1.5,Jayanagar,Semi-Furnished,186.41
+925.0,2,3,9.0,1,9,3.11,HSR Layout,Unfurnished,101.69
+973.0,2,2,14.0,1,17,0.99,HSR Layout,Unfurnished,96.85
+744.0,1,2,2.0,0,9,2.39,Whitefield,Semi-Furnished,65.2
+1501.0,3,4,2.0,1,7,1.14,Whitefield,Semi-Furnished,144.58
+1228.0,2,2,7.0,0,11,1.94,Whitefield,Semi-Furnished,107.36
+974.0,2,2,27.0,1,13,8.06,Whitefield,Unfurnished,66.32
+1038.0,2,1,6.0,1,20,1.67,Jayanagar,Unfurnished,116.11
+1918.0,4,4,22.0,1,12,0.76,Jayanagar,Unfurnished,169.58
+1423.0,3,4,13.0,0,3,2.5,Jayanagar,Semi-Furnished,153.95
+2223.0,4,3,23.0,1,1,2.54,Whitefield,Semi-Furnished,143.6
+1456.0,3,2,10.0,1,20,2.52,Whitefield,Furnished,125.75
+1495.0,3,4,27.0,1,8,3.51,Indiranagar,Semi-Furnished,165.85
+793.0,2,3,11.0,1,4,1.61,Electronic City,Semi-Furnished,48.94
+1952.0,4,4,24.0,0,4,3.76,Indiranagar,Semi-Furnished,225.03
+1483.0,3,4,25.0,1,2,2.31,HSR Layout,Unfurnished,113.59
+1253.0,2,1,13.0,1,4,0.72,Koramangala,Semi-Furnished,156.52
+1456.0,3,3,20.0,1,16,4.14,Hebbal,Unfurnished,97.96
+1530.0,3,4,3.0,0,13,2.69,Indiranagar,Semi-Furnished,222.25
+856.0,2,2,15.0,2,12,3.62,Whitefield,Unfurnished,71.5
+986.0,2,2,11.0,2,0,0.8,Hebbal,Furnished,90.1
+1009.0,2,1,29.0,2,14,4.31,Yelahanka,Furnished,57.3
+1830.0,4,4,28.0,1,20,9.48,Whitefield,Unfurnished,103.91
+1036.0,2,2,24.0,1,19,0.75,HSR Layout,Semi-Furnished,104.55
+2025.0,4,5,29.0,0,8,4.73,Jayanagar,Furnished,166.86
+1156.0,2,1,30.0,2,12,2.69,Hebbal,Unfurnished,68.13
+1395.0,3,3,23.0,1,6,2.33,Jayanagar,Furnished,122.25
+1304.0,2,2,18.0,0,18,4.34,HSR Layout,Semi-Furnished,127.52
+2454.0,4,5,6.0,1,19,4.02,Indiranagar,Furnished,335.73
+731.0,2,1,25.0,2,4,5.56,Hebbal,Furnished,58.8
+831.0,2,3,6.0,2,10,0.83,Koramangala,Unfurnished,119.25
+767.0,2,3,5.0,1,4,5.7,Koramangala,Semi-Furnished,101.44
+999.0,2,2,27.0,1,12,3.08,Electronic City,Semi-Furnished,52.92
+1055.0,2,2,3.0,2,6,0.48,Hebbal,Unfurnished,107.5
+1390.0,3,2,4.0,2,14,1.69,Whitefield,Unfurnished,109.89
+2050.0,4,3,15.0,2,20,2.74,Electronic City,Furnished,128.05
+1492.0,3,2,18.0,1,18,1.66,Indiranagar,Unfurnished,171.24
+1184.0,3,2,1.0,1,3,2.11,Electronic City,Semi-Furnished,78.74
+1053.0,2,2,11.0,2,2,1.47,Yelahanka,Furnished,76.68
+1807.0,4,3,6.0,0,17,12.79,Whitefield,Unfurnished,130.97
+1577.0,4,3,9.0,1,1,3.8,Yelahanka,Semi-Furnished,101.15
+812.0,2,3,5.0,0,8,2.49,HSR Layout,Furnished,92.76
+1558.0,4,3,20.0,1,20,0.97,Jayanagar,Semi-Furnished,144.18
+1129.0,2,1,14.0,2,9,5.57,HSR Layout,Unfurnished,105.93
+1532.0,3,3,29.0,0,0,3.46,Indiranagar,Unfurnished,144.5
+2545.0,5,6,0.0,1,20,1.06,Jayanagar,Furnished,325.96
+1102.0,3,4,24.0,0,14,1.07,Hebbal,Unfurnished,83.01
+874.0,2,1,28.0,2,6,2.16,Koramangala,Semi-Furnished,95.1
+1619.0,3,2,15.0,2,12,2.51,Hebbal,Unfurnished,124.41
+429.0,1,2,21.0,1,12,3.74,Jayanagar,Semi-Furnished,50.87
+1649.0,3,4,13.0,1,11,2.27,HSR Layout,Furnished,170.02
+676.0,2,2,18.0,0,20,3.96,Yelahanka,Semi-Furnished,47.74
+1640.0,3,4,28.0,2,16,1.66,Hebbal,Furnished,124.94
+1660.0,4,5,16.0,1,5,2.27,Indiranagar,Unfurnished,206.71
+1103.0,2,3,17.0,0,20,5.71,Whitefield,Semi-Furnished,81.08
+1497.0,2,3,30.0,2,20,4.09,Hebbal,Furnished,99.19
+917.0,3,4,15.0,0,0,2.38,Koramangala,Semi-Furnished,109.64
+1225.0,2,1,5.0,1,6,3.0,Jayanagar,Unfurnished,141.32
+791.0,2,3,21.0,0,12,2.28,Electronic City,Furnished,47.36
+631.0,1,2,21.0,1,18,0.67,HSR Layout,Semi-Furnished,63.1
+954.0,2,1,7.0,0,15,7.05,Koramangala,Semi-Furnished,123.58
+1330.0,3,2,22.0,0,12,1.13,Hebbal,Furnished,86.18
+1265.0,3,3,1.0,1,6,1.76,Koramangala,Unfurnished,160.64
+,2,1,,2,2,,HSR Layout,,92.68
+890.0,2,3,26.0,1,18,0.93,Jayanagar,Unfurnished,80.9
+,2,2,,1,11,,Yelahanka,,74.76
+785.0,2,2,18.0,1,9,5.96,Yelahanka,Unfurnished,51.26
+1064.0,3,4,19.0,2,20,8.09,Yelahanka,Semi-Furnished,71.48
+,2,3,,1,3,,Electronic City,,86.62
+1340.0,3,4,29.0,1,5,5.6,Koramangala,Semi-Furnished,121.91
+2442.0,4,5,9.0,2,17,2.01,Jayanagar,Unfurnished,247.81
+1585.0,3,4,24.0,1,5,0.12,Jayanagar,Semi-Furnished,168.25
+1282.0,3,2,30.0,1,19,5.26,Yelahanka,Unfurnished,69.02
+625.0,1,2,7.0,2,18,2.34,Hebbal,Semi-Furnished,65.62
+959.0,2,1,19.0,1,2,1.83,Koramangala,Semi-Furnished,98.7
+799.0,1,1,1.0,1,9,1.7,Electronic City,Semi-Furnished,56.38
+1525.0,3,3,19.0,1,15,3.91,HSR Layout,Furnished,136.17
+1949.0,4,3,13.0,2,10,3.88,Jayanagar,Semi-Furnished,203.99
+965.0,2,1,2.0,2,4,2.39,HSR Layout,Unfurnished,108.69
+1057.0,2,3,20.0,1,0,3.3,Indiranagar,Furnished,123.89
+1293.0,2,2,30.0,1,0,0.92,Whitefield,Unfurnished,70.61
+1430.0,3,4,2.0,1,3,2.03,Jayanagar,Unfurnished,190.26
+1507.0,3,4,27.0,0,5,0.96,Jayanagar,Semi-Furnished,131.71
+1289.0,3,3,26.0,0,6,0.93,Whitefield,Unfurnished,84.71
+1798.0,4,4,16.0,0,17,3.08,HSR Layout,Unfurnished,155.42
+881.0,2,3,27.0,0,10,2.49,HSR Layout,Semi-Furnished,65.34
+1219.0,3,2,9.0,1,2,1.66,HSR Layout,Unfurnished,119.47
+1727.0,3,4,22.0,0,1,1.95,Yelahanka,Furnished,93.91
+986.0,2,3,21.0,0,2,3.27,Koramangala,Furnished,110.58
+1971.0,4,3,17.0,1,6,3.97,Indiranagar,Semi-Furnished,239.25
+460.0,1,1,25.0,1,15,3.52,Koramangala,Semi-Furnished,54.89
+1554.0,3,4,27.0,0,1,0.46,Koramangala,Semi-Furnished,158.26
+1405.0,3,4,24.0,0,8,0.2,Yelahanka,Furnished,90.29
+1749.0,4,5,18.0,1,9,1.22,Yelahanka,Unfurnished,107.09
+1465.0,3,2,30.0,1,3,0.2,Whitefield,Unfurnished,94.37
+921.0,2,3,17.0,2,1,6.51,Hebbal,Semi-Furnished,71.45
+1371.0,4,5,19.0,2,4,1.9,Koramangala,Semi-Furnished,140.4
+1554.0,3,4,5.0,2,3,0.71,Koramangala,Unfurnished,203.09
+1696.0,3,3,9.0,1,16,1.88,Indiranagar,Semi-Furnished,217.73
+1271.0,3,3,28.0,2,19,0.35,Koramangala,Unfurnished,131.57
+847.0,2,2,15.0,1,13,0.73,HSR Layout,Furnished,86.87
+1135.0,3,2,15.0,1,15,1.77,Yelahanka,Unfurnished,74.76
+2087.0,4,4,25.0,1,15,1.54,Electronic City,Unfurnished,108.93
+,2,1,,1,18,,Hebbal,,93.88
+1068.0,2,1,8.0,1,2,3.34,HSR Layout,Unfurnished,113.05
+1558.0,4,3,0.0,0,20,4.67,Whitefield,Unfurnished,122.46
+1507.0,3,3,7.0,2,9,2.61,Whitefield,Unfurnished,120.56
+1956.0,4,3,15.0,0,11,4.85,Indiranagar,Unfurnished,256.38
+1211.0,2,3,22.0,1,16,1.57,Koramangala,Unfurnished,136.53
+2446.0,5,6,10.0,2,10,5.31,Jayanagar,Semi-Furnished,263.93
+667.0,2,3,13.0,1,5,2.64,Jayanagar,Semi-Furnished,76.58
+1389.0,3,2,6.0,0,0,4.4,Jayanagar,Unfurnished,141.97
+898.0,2,1,25.0,1,3,1.6,Hebbal,Unfurnished,49.59
+1121.0,3,3,16.0,1,1,2.55,Electronic City,Unfurnished,59.7
+1810.0,4,5,4.0,2,8,8.81,Hebbal,Unfurnished,139.48
+1379.0,3,2,18.0,1,16,2.54,HSR Layout,Unfurnished,117.53
+1177.0,3,4,10.0,1,7,4.65,Hebbal,Furnished,95.02
+959.0,2,2,26.0,1,12,5.05,Jayanagar,Furnished,102.23
+1589.0,3,4,8.0,1,3,3.72,Jayanagar,Furnished,180.33
+1350.0,3,2,26.0,1,12,4.2,Electronic City,Semi-Furnished,67.63
+460.0,1,1,21.0,0,20,1.6,Whitefield,Semi-Furnished,39.25
+1356.0,3,3,4.0,1,6,1.19,Hebbal,Unfurnished,117.55
+2163.0,4,3,23.0,0,10,0.97,Indiranagar,Furnished,238.01
+1260.0,3,4,22.0,1,20,3.23,Hebbal,Furnished,103.12
+1756.0,3,4,14.0,2,12,2.48,Electronic City,Furnished,115.2
+928.0,2,2,4.0,1,8,3.07,Yelahanka,Furnished,65.09
+1543.0,3,3,14.0,1,2,0.82,Indiranagar,Semi-Furnished,194.02
+360.0,1,1,18.0,2,19,1.36,Yelahanka,Furnished,35.88
+1052.0,2,2,4.0,0,12,4.56,Jayanagar,Furnished,123.52
+1044.0,2,2,10.0,0,1,2.78,Indiranagar,Unfurnished,131.53
+775.0,2,3,21.0,2,11,2.66,HSR Layout,Furnished,84.67
+659.0,1,1,17.0,2,20,2.02,Electronic City,Unfurnished,49.0
+1532.0,3,2,30.0,1,19,1.25,Jayanagar,Furnished,137.97
+1006.0,2,2,6.0,1,4,5.43,Hebbal,Furnished,84.61
+1130.0,2,3,24.0,2,8,6.05,Jayanagar,Unfurnished,87.88
+756.0,2,2,13.0,2,20,2.56,Indiranagar,Semi-Furnished,113.43
+1545.0,3,2,6.0,1,16,2.19,Electronic City,Unfurnished,99.61
+1229.0,2,3,29.0,1,11,6.35,HSR Layout,Furnished,91.08
+1226.0,2,3,19.0,1,6,1.39,Yelahanka,Furnished,79.07
+1526.0,3,2,16.0,2,16,1.69,Indiranagar,Semi-Furnished,200.12
+629.0,1,2,9.0,2,12,4.41,Electronic City,Furnished,54.03
+1587.0,4,5,27.0,1,11,1.66,Whitefield,Unfurnished,110.05
+551.0,1,2,0.0,1,19,2.45,Jayanagar,Unfurnished,77.18
+965.0,2,2,3.0,1,7,0.27,HSR Layout,Semi-Furnished,117.91
+935.0,2,3,5.0,1,13,6.15,Indiranagar,Unfurnished,123.95
+1708.0,3,4,20.0,1,0,4.15,Electronic City,Semi-Furnished,90.12
+1228.0,2,3,3.0,0,14,5.17,HSR Layout,Unfurnished,120.88
+1865.0,4,4,24.0,0,11,1.09,Jayanagar,Semi-Furnished,179.29
+909.0,2,1,6.0,2,18,7.06,Electronic City,Semi-Furnished,57.25
+1033.0,3,2,20.0,0,6,2.28,Electronic City,Furnished,58.39
+1061.0,2,3,24.0,0,19,5.48,Whitefield,Unfurnished,71.68
+606.0,1,1,27.0,2,12,3.17,Whitefield,Furnished,53.24
+883.0,2,3,9.0,1,4,4.29,HSR Layout,Semi-Furnished,87.61
+1266.0,3,3,2.0,0,3,3.35,Yelahanka,Unfurnished,83.77
+1198.0,2,2,23.0,1,4,1.65,Yelahanka,Semi-Furnished,66.81
+2333.0,5,4,13.0,2,6,0.54,Hebbal,Semi-Furnished,185.28
+1338.0,3,3,29.0,1,11,5.77,Hebbal,Unfurnished,72.73
+2250.0,5,5,5.0,1,18,0.13,HSR Layout,Semi-Furnished,260.41
+884.0,2,1,17.0,1,20,4.62,Koramangala,Unfurnished,87.23
+1843.0,3,2,3.0,1,14,5.77,Whitefield,Semi-Furnished,150.06
+1397.0,3,3,15.0,1,10,0.69,Indiranagar,Semi-Furnished,161.86
+1565.0,3,2,0.0,0,12,1.73,Indiranagar,Semi-Furnished,241.63
+2088.0,5,6,23.0,1,6,0.61,Koramangala,Furnished,235.92
+1352.0,3,3,18.0,0,5,1.45,Indiranagar,Unfurnished,157.07
+,4,4,,0,11,,Whitefield,,186.6
+1749.0,3,2,15.0,0,17,4.25,Electronic City,Furnished,95.89
+915.0,2,2,13.0,2,1,3.86,Yelahanka,Furnished,66.23
+,3,3,,0,2,1.74,Hebbal,Furnished,84.94
+1131.0,2,2,15.0,1,3,0.16,HSR Layout,Unfurnished,105.63
+2033.0,4,3,14.0,0,4,0.79,HSR Layout,Semi-Furnished,204.83
+1762.0,3,2,25.0,1,3,2.02,Indiranagar,Unfurnished,198.54
+551.0,1,2,16.0,1,2,0.96,Koramangala,Furnished,68.99
+1121.0,2,3,25.0,2,0,4.66,Electronic City,Semi-Furnished,62.54
+536.0,1,2,27.0,1,7,7.21,Electronic City,Unfurnished,30.42
+922.0,2,1,26.0,1,15,3.15,Whitefield,Furnished,68.6
+633.0,1,1,29.0,1,3,0.68,HSR Layout,Unfurnished,50.65
+1375.0,3,2,21.0,0,6,5.92,Indiranagar,Semi-Furnished,139.74
+1257.0,3,4,17.0,2,20,2.66,Koramangala,Semi-Furnished,119.99
+1950.0,4,3,16.0,2,3,2.39,Hebbal,Unfurnished,149.18
+1061.0,2,2,6.0,1,20,3.63,Electronic City,Semi-Furnished,70.03
+1625.0,3,4,25.0,1,10,0.82,Hebbal,Furnished,111.85
+355.0,1,2,21.0,1,15,1.76,Hebbal,Unfurnished,33.48
+2359.0,4,5,27.0,1,6,2.27,Yelahanka,Semi-Furnished,114.56
+1016.0,2,2,21.0,2,6,2.95,Jayanagar,Unfurnished,99.02
+752.0,1,1,14.0,2,8,3.18,Electronic City,Semi-Furnished,49.87
+1035.0,2,1,9.0,1,2,3.63,Yelahanka,Unfurnished,60.69
+1235.0,3,2,30.0,1,6,1.49,HSR Layout,Furnished,99.43
+369.0,1,1,22.0,1,18,0.43,Yelahanka,Furnished,31.34
+1603.0,3,3,27.0,1,0,2.0,Jayanagar,Unfurnished,138.17
+1146.0,3,2,18.0,1,12,2.21,Hebbal,Unfurnished,75.13
+1231.0,3,2,15.0,1,14,0.4,Yelahanka,Semi-Furnished,76.83
+840.0,2,2,1.0,2,2,1.42,Electronic City,Semi-Furnished,66.15
+710.0,1,2,2.0,2,2,2.75,Hebbal,Semi-Furnished,65.33
+1145.0,2,3,21.0,0,11,1.61,Indiranagar,Unfurnished,119.94
+1264.0,2,1,6.0,1,4,2.67,Yelahanka,Unfurnished,77.74
+1284.0,3,4,2.0,0,20,1.55,Electronic City,Furnished,567.0
+1133.0,2,2,24.0,0,3,3.82,Jayanagar,Semi-Furnished,95.48
+1177.0,2,2,19.0,1,2,1.04,HSR Layout,Furnished,109.7
+615.0,1,1,3.0,2,6,2.41,Jayanagar,Semi-Furnished,75.5
+1355.0,3,4,15.0,1,6,2.51,Whitefield,Furnished,118.39
+962.0,2,2,14.0,1,3,4.53,Whitefield,Unfurnished,78.22
+1572.0,3,2,0.0,1,13,1.84,Electronic City,Unfurnished,92.32
+622.0,1,1,18.0,1,7,7.14,Hebbal,Furnished,42.11
+2004.0,5,4,12.0,2,11,6.96,Jayanagar,Furnished,225.25
+1618.0,3,2,27.0,1,5,1.1,HSR Layout,Unfurnished,134.29
+1147.0,2,1,3.0,1,2,2.36,Hebbal,Semi-Furnished,83.24
+660.0,1,1,26.0,2,1,0.75,Electronic City,Semi-Furnished,40.26
+912.0,2,2,0.0,1,1,3.43,Yelahanka,Semi-Furnished,73.42
+846.0,2,1,23.0,0,18,1.59,Hebbal,Unfurnished,53.23
+1326.0,2,2,24.0,1,5,2.63,HSR Layout,Furnished,124.31
+1940.0,4,3,12.0,1,6,1.96,Yelahanka,Unfurnished,115.61
+1333.0,3,2,8.0,1,12,12.48,Whitefield,Semi-Furnished,104.71
+1036.0,2,3,4.0,2,2,2.15,Yelahanka,Unfurnished,73.4
+1962.0,3,2,10.0,1,12,2.0,Koramangala,Unfurnished,243.77
+973.0,2,1,20.0,1,10,4.74,Indiranagar,Semi-Furnished,114.95
+2018.0,5,5,22.0,2,16,5.22,Jayanagar,Unfurnished,199.74
+555.0,1,1,5.0,1,2,2.93,Hebbal,Semi-Furnished,52.34
+1460.0,3,2,0.0,1,0,5.32,Yelahanka,Unfurnished,95.29
+1425.0,3,2,17.0,0,16,11.13,Hebbal,Furnished,111.14
+471.0,1,1,18.0,1,7,1.88,Hebbal,Semi-Furnished,41.44
+1121.0,2,3,30.0,1,1,0.84,Indiranagar,Furnished,122.28
+1147.0,2,2,23.0,0,11,3.23,Whitefield,Unfurnished,70.52
+1598.0,4,5,17.0,1,9,4.98,Whitefield,Unfurnished,106.44
+1148.0,3,4,18.0,0,19,6.75,Indiranagar,Semi-Furnished,120.95
+1245.0,3,4,20.0,1,19,3.67,Whitefield,Semi-Furnished,92.21
+1422.0,3,3,14.0,1,11,2.46,Electronic City,Unfurnished,89.0
+2370.0,4,4,21.0,1,3,1.25,Jayanagar,Unfurnished,219.31
+1204.0,2,2,6.0,1,15,5.79,Yelahanka,Semi-Furnished,79.19
+1567.0,3,4,25.0,1,4,3.04,HSR Layout,Unfurnished,122.34
+,3,3,,1,17,0.44,Yelahanka,Semi-Furnished,76.15
+1084.0,2,2,13.0,0,12,8.8,Yelahanka,Unfurnished,62.71
+1400.0,4,3,14.0,1,7,0.89,Jayanagar,Unfurnished,136.97
+727.0,1,2,15.0,0,20,5.05,HSR Layout,Semi-Furnished,72.66
+1175.0,2,2,25.0,1,10,2.86,Indiranagar,Semi-Furnished,128.35
+1740.0,3,4,5.0,1,8,0.48,Yelahanka,Unfurnished,114.24
+930.0,2,3,10.0,1,3,2.24,Koramangala,Semi-Furnished,129.18
+928.0,2,1,19.0,1,13,1.88,HSR Layout,Furnished,88.6
+1014.0,2,2,21.0,2,5,0.61,Whitefield,Semi-Furnished,75.38
+1497.0,3,3,9.0,0,3,3.42,Jayanagar,Semi-Furnished,166.67
+1440.0,4,3,3.0,2,2,4.56,Hebbal,Furnished,127.9
+676.0,1,1,15.0,2,13,2.37,Whitefield,Semi-Furnished,63.31
+631.0,1,1,19.0,1,19,1.84,Koramangala,Furnished,74.07
+799.0,2,1,23.0,0,5,3.61,Electronic City,Furnished,41.46
+1424.0,4,4,0.0,0,4,0.1,Electronic City,Unfurnished,107.04
+1030.0,2,3,0.0,2,12,1.68,Jayanagar,Semi-Furnished,127.8
+2338.0,4,3,11.0,1,3,1.78,Indiranagar,Semi-Furnished,305.02
+2317.0,4,3,17.0,2,1,2.43,Yelahanka,Furnished,133.67
+1137.0,2,1,0.0,1,13,0.57,HSR Layout,Semi-Furnished,155.26
+1831.0,3,4,5.0,1,11,0.31,Jayanagar,Unfurnished,228.73
+1511.0,3,4,12.0,1,0,0.97,Koramangala,Semi-Furnished,187.41
+1509.0,3,4,8.0,1,4,3.38,Whitefield,Unfurnished,114.35
+946.0,2,1,22.0,1,4,1.76,Whitefield,Furnished,-10.0
+1344.0,3,3,1.0,2,14,0.97,Indiranagar,Semi-Furnished,218.84
+1299.0,3,2,27.0,1,13,7.9,Yelahanka,Semi-Furnished,59.56
+1105.0,3,3,5.0,2,15,1.84,Whitefield,Furnished,103.79
+2737.0,5,4,13.0,2,2,2.44,Indiranagar,Semi-Furnished,340.9
+964.0,2,2,30.0,0,17,5.73,Whitefield,Semi-Furnished,60.3
+1282.0,3,4,20.0,1,4,2.72,Yelahanka,Furnished,81.41
+,4,5,,0,20,,Hebbal,,95.12
+1073.0,2,1,0.0,1,18,1.2,Jayanagar,Furnished,152.38
+714.0,1,1,22.0,2,9,2.54,Hebbal,Unfurnished,50.81
+1180.0,2,1,2.0,2,16,7.23,Hebbal,Semi-Furnished,104.81
+1456.0,4,3,18.0,2,14,3.26,Jayanagar,Unfurnished,145.59
+828.0,2,2,10.0,1,16,2.92,Whitefield,Furnished,80.97
+1257.0,3,3,24.0,1,0,1.99,Jayanagar,Semi-Furnished,121.89
+623.0,1,2,3.0,1,1,0.74,Hebbal,Semi-Furnished,56.22
+998.0,2,3,27.0,2,19,5.31,Hebbal,Unfurnished,67.55
+1452.0,3,4,14.0,0,16,2.29,HSR Layout,Unfurnished,733.92
+926.0,2,1,16.0,0,12,1.35,Jayanagar,Semi-Furnished,82.52
+1812.0,4,3,17.0,0,6,0.66,HSR Layout,Unfurnished,156.37
+1379.0,2,2,1.0,0,8,3.04,Whitefield,Unfurnished,116.54
+2087.0,4,5,9.0,0,8,0.86,Yelahanka,Furnished,133.7
+1088.0,2,3,21.0,0,9,5.35,Koramangala,Furnished,109.18
+1409.0,5,5,29.0,2,13,1.42,Whitefield,Unfurnished,108.03
+,3,2,,2,15,,Electronic City,,69.4
+,1,1,,1,8,,Koramangala,,75.83
+605.0,1,1,7.0,2,17,2.95,Jayanagar,Semi-Furnished,77.15
+,1,1,,1,1,,HSR Layout,,42.19
+1357.0,3,3,14.0,2,16,1.54,Whitefield,Unfurnished,109.12
+1216.0,3,3,12.0,1,14,2.45,Yelahanka,Unfurnished,76.16
+1254.0,2,1,11.0,1,10,3.73,Electronic City,Unfurnished,69.72
+940.0,2,2,26.0,1,7,6.77,Indiranagar,Semi-Furnished,101.3
+1247.0,3,2,12.0,0,7,4.34,Hebbal,Unfurnished,92.42
+1433.0,3,3,0.0,1,7,4.93,Electronic City,Unfurnished,88.03
+955.0,3,3,22.0,2,19,1.88,Whitefield,Semi-Furnished,83.27
+1027.0,2,1,20.0,2,0,3.26,Jayanagar,Furnished,102.99
+1465.0,3,3,11.0,1,13,6.12,HSR Layout,Furnished,137.86
+2425.0,5,4,19.0,1,20,2.36,Hebbal,Semi-Furnished,166.2
+810.0,2,2,29.0,2,11,3.27,Yelahanka,Semi-Furnished,46.04
+601.0,1,1,28.0,0,13,0.51,Electronic City,Semi-Furnished,33.43
+1121.0,2,2,24.0,0,12,3.99,Hebbal,Unfurnished,74.6
+1082.0,3,2,18.0,1,10,2.9,Indiranagar,Semi-Furnished,126.41
+1178.0,2,2,0.0,1,13,3.8,Koramangala,Semi-Furnished,156.42
+1800.0,4,5,15.0,1,18,1.92,HSR Layout,Semi-Furnished,188.05
+1801.0,3,3,25.0,0,14,0.38,Jayanagar,Furnished,180.33
+1415.0,3,4,26.0,1,17,4.12,Electronic City,Furnished,72.47
+1457.0,3,4,23.0,1,11,1.34,Indiranagar,Unfurnished,159.15
+1249.0,2,1,30.0,2,16,0.57,Jayanagar,Semi-Furnished,110.01
+1246.0,3,4,16.0,1,18,2.75,Jayanagar,Unfurnished,123.34
+522.0,1,1,3.0,1,4,7.36,Yelahanka,Semi-Furnished,38.54
+1446.0,3,3,15.0,2,18,1.17,Indiranagar,Unfurnished,1054.3799999999999
+1786.0,4,5,9.0,1,14,1.39,Hebbal,Unfurnished,139.05
+1606.0,3,4,25.0,1,9,4.27,Electronic City,Furnished,83.44
+1900.0,4,4,24.0,1,16,2.07,HSR Layout,Semi-Furnished,146.35
+837.0,2,3,13.0,1,3,4.11,HSR Layout,Furnished,76.23
+1907.0,4,4,12.0,1,14,1.98,Whitefield,Unfurnished,159.88
+1738.0,3,2,4.0,1,12,1.73,Indiranagar,Unfurnished,227.23
+1154.0,3,2,1.0,2,18,1.22,Electronic City,Semi-Furnished,99.45
+,1,2,,2,13,,Yelahanka,,57.37
+921.0,2,3,7.0,2,11,1.22,Jayanagar,Unfurnished,109.68
+1531.0,3,4,8.0,1,10,1.64,Koramangala,Furnished,235.82
+454.0,1,1,30.0,2,11,5.29,Hebbal,Unfurnished,37.23
+1604.0,3,2,21.0,2,18,9.51,Whitefield,Unfurnished,101.64
+1690.0,4,5,17.0,0,16,3.39,Hebbal,Semi-Furnished,102.97
+2043.0,4,3,5.0,1,1,5.43,Indiranagar,Semi-Furnished,278.22
+644.0,1,2,26.0,0,11,1.81,HSR Layout,Semi-Furnished,55.04
+1720.0,4,4,19.0,1,6,2.02,Hebbal,Semi-Furnished,124.36
+641.0,1,1,15.0,1,3,2.85,HSR Layout,Furnished,63.72
+,2,2,,1,18,,Jayanagar,,116.03
+1840.0,4,5,17.0,0,18,1.71,Electronic City,Semi-Furnished,102.64
+523.0,1,2,26.0,1,19,4.01,Yelahanka,Semi-Furnished,39.08
+595.0,1,1,22.0,0,8,2.5,Hebbal,Furnished,40.69
+492.0,1,1,15.0,1,8,2.19,Indiranagar,Semi-Furnished,64.14
+1233.0,3,4,20.0,2,16,2.1,Jayanagar,Semi-Furnished,118.27
+1670.0,3,2,28.0,2,4,0.98,HSR Layout,Unfurnished,128.8
+969.0,2,3,10.0,1,1,2.77,Electronic City,Unfurnished,55.42
+1088.0,2,1,27.0,1,8,1.36,Koramangala,Unfurnished,108.1
+1334.0,3,3,18.0,2,13,0.5,Whitefield,Semi-Furnished,105.43
+940.0,2,3,5.0,0,9,0.85,Electronic City,Unfurnished,60.41
+1719.0,3,3,29.0,2,4,2.14,Koramangala,Semi-Furnished,183.08
+1948.0,4,3,21.0,1,10,3.78,Yelahanka,Unfurnished,100.96
+1353.0,3,2,11.0,1,19,4.51,Jayanagar,Furnished,147.86
+1909.0,4,5,6.0,0,5,0.67,Hebbal,Furnished,170.45
+1492.0,3,4,28.0,0,8,3.52,Hebbal,Unfurnished,76.69
+1657.0,4,3,25.0,1,6,7.66,Electronic City,Unfurnished,79.23
+1003.0,2,3,1.0,1,6,4.67,Whitefield,Unfurnished,95.84
+617.0,1,1,19.0,2,13,2.69,HSR Layout,Furnished,68.95
+1588.0,3,2,3.0,1,7,2.86,HSR Layout,Unfurnished,130.99
+594.0,1,1,9.0,1,13,2.63,Yelahanka,Semi-Furnished,44.25
+2310.0,4,5,17.0,1,0,1.61,Koramangala,Semi-Furnished,237.02
+1399.0,3,2,7.0,1,13,4.83,HSR Layout,Furnished,158.58
+1789.0,4,5,15.0,0,2,1.06,Indiranagar,Semi-Furnished,234.88
+955.0,2,2,13.0,1,7,2.8,Koramangala,Semi-Furnished,117.56
+871.0,2,2,18.0,1,18,0.49,Whitefield,Furnished,71.51
+1286.0,3,4,24.0,2,7,5.13,Indiranagar,Unfurnished,149.06
+962.0,2,2,4.0,1,14,2.71,Whitefield,Furnished,92.83
+1550.0,3,2,24.0,1,7,0.62,Whitefield,Unfurnished,114.59
+1354.0,3,4,6.0,2,18,6.34,Indiranagar,Semi-Furnished,190.86
+2187.0,5,5,1.0,1,19,2.27,Koramangala,Furnished,325.96
+1779.0,3,3,13.0,1,19,0.77,Electronic City,Semi-Furnished,106.22
+685.0,1,2,9.0,1,8,8.12,Whitefield,Semi-Furnished,63.17
+1128.0,2,1,5.0,2,6,1.98,Indiranagar,Unfurnished,161.8
+1304.0,3,4,13.0,1,12,1.24,HSR Layout,Semi-Furnished,145.8
+860.0,2,2,26.0,1,17,2.9,Yelahanka,Semi-Furnished,52.75
+1332.0,2,2,18.0,2,10,0.86,Hebbal,Semi-Furnished,101.0
+1054.0,2,2,22.0,0,15,1.61,Yelahanka,Semi-Furnished,62.57
+510.0,1,2,4.0,2,18,5.84,Indiranagar,Unfurnished,87.32
+1556.0,3,2,2.0,1,15,2.02,HSR Layout,Unfurnished,178.11
+1089.0,2,1,10.0,0,7,3.37,HSR Layout,Unfurnished,100.79
+1442.0,3,3,24.0,0,5,6.02,Yelahanka,Semi-Furnished,62.99
+1020.0,2,1,27.0,2,9,1.97,Yelahanka,Unfurnished,59.41
+1619.0,3,2,3.0,2,12,1.19,Yelahanka,Furnished,114.04
+917.0,2,2,14.0,1,17,3.83,Jayanagar,Semi-Furnished,100.13
+1814.0,4,5,12.0,0,6,0.74,Electronic City,Unfurnished,103.49
+529.0,1,2,23.0,1,3,1.08,Electronic City,Semi-Furnished,29.78
+1285.0,3,2,6.0,1,6,0.6,Yelahanka,Furnished,95.92
+818.0,2,3,15.0,1,12,5.73,Indiranagar,Unfurnished,112.98
+1087.0,2,2,26.0,1,4,2.56,Indiranagar,Unfurnished,108.06
+968.0,2,1,14.0,1,8,3.94,Yelahanka,Unfurnished,60.71
+1725.0,4,5,24.0,0,5,1.14,HSR Layout,Unfurnished,158.06
+1885.0,4,4,19.0,1,20,3.27,Koramangala,Furnished,226.25
+893.0,2,2,18.0,1,10,3.36,Electronic City,Furnished,52.86
+1168.0,2,2,8.0,1,15,8.1,Indiranagar,Unfurnished,145.2
+1549.0,3,4,30.0,1,10,3.7,Yelahanka,Semi-Furnished,81.08
+1398.0,3,2,7.0,2,0,4.5,Yelahanka,Unfurnished,97.35
+1039.0,2,1,28.0,1,5,2.72,Indiranagar,Semi-Furnished,111.68
+1546.0,3,3,30.0,2,17,0.11,Electronic City,Furnished,70.49
+1112.0,3,2,15.0,1,10,3.06,Yelahanka,Semi-Furnished,66.68
+1757.0,3,3,26.0,0,14,2.12,Hebbal,Unfurnished,104.09
+1431.0,2,2,22.0,2,15,2.04,Koramangala,Semi-Furnished,145.86
+1086.0,2,1,22.0,1,11,1.67,Electronic City,Furnished,47.3
+971.0,2,2,2.0,1,12,2.04,Electronic City,Unfurnished,64.4
+1494.0,3,3,4.0,0,4,1.42,Hebbal,Unfurnished,118.76
+1182.0,2,2,2.0,1,5,4.21,Whitefield,Unfurnished,98.44
+1672.0,3,2,0.0,2,3,0.99,Indiranagar,Semi-Furnished,237.81
+1085.0,3,4,25.0,1,6,7.39,Jayanagar,Semi-Furnished,95.07
+1574.0,3,4,5.0,0,13,3.96,Koramangala,Furnished,214.03
+717.0,1,1,0.0,1,19,5.01,Indiranagar,Furnished,110.66
+1055.0,2,1,29.0,1,9,1.06,Indiranagar,Furnished,121.68
+857.0,2,3,8.0,2,12,1.57,Koramangala,Furnished,125.84
+1549.0,3,2,25.0,1,18,2.64,Koramangala,Unfurnished,141.82
+1630.0,4,3,29.0,2,14,2.45,Indiranagar,Semi-Furnished,156.61
+1077.0,2,1,16.0,1,5,3.96,Jayanagar,Unfurnished,100.62
+1702.0,4,5,28.0,1,5,2.45,Whitefield,Unfurnished,115.49
+967.0,2,1,30.0,1,13,7.66,Indiranagar,Furnished,89.48
+945.0,2,2,4.0,1,6,1.08,Whitefield,Semi-Furnished,91.46
+532.0,1,1,4.0,1,5,0.89,Electronic City,Furnished,40.65
+1833.0,3,2,11.0,0,12,1.51,Indiranagar,Semi-Furnished,262.64
+989.0,2,2,17.0,1,13,2.05,Jayanagar,Semi-Furnished,106.24
+957.0,2,3,24.0,2,5,5.31,Electronic City,Semi-Furnished,52.59
+1282.0,3,2,5.0,1,1,3.21,Jayanagar,Unfurnished,146.5
+1033.0,3,2,5.0,0,16,0.15,Hebbal,Unfurnished,91.15
+499.0,1,1,9.0,1,8,0.17,HSR Layout,Semi-Furnished,55.93
+565.0,1,2,8.0,1,13,2.2,Jayanagar,Unfurnished,64.54
+1575.0,3,2,29.0,2,3,1.72,HSR Layout,Furnished,131.67
+908.0,2,1,12.0,1,6,2.25,Yelahanka,Unfurnished,57.11
+1287.0,2,2,26.0,0,12,2.05,Yelahanka,Unfurnished,58.18
+1263.0,3,2,1.0,1,2,6.92,Electronic City,Furnished,83.09
+1027.0,2,1,3.0,1,6,4.77,Hebbal,Unfurnished,78.5
+1271.0,3,3,24.0,1,15,1.58,Indiranagar,Furnished,136.41
+1017.0,2,2,7.0,1,16,2.42,Jayanagar,Semi-Furnished,118.43
+1303.0,2,1,2.0,1,7,1.92,Hebbal,Unfurnished,115.53
+686.0,2,3,18.0,1,2,0.29,Yelahanka,Semi-Furnished,50.27
+1019.0,2,1,4.0,1,0,1.64,Indiranagar,Semi-Furnished,151.9
+615.0,1,2,1.0,0,11,1.66,Jayanagar,Furnished,83.48
+837.0,2,1,12.0,1,14,1.37,HSR Layout,Furnished,94.48
+1902.0,4,3,17.0,1,12,1.6,Koramangala,Semi-Furnished,215.29
+2173.0,4,3,16.0,1,8,1.95,Koramangala,Semi-Furnished,227.11
+1094.0,2,3,18.0,2,0,3.4,Electronic City,Unfurnished,59.4
+1474.0,3,3,0.0,1,4,1.46,Indiranagar,Semi-Furnished,213.32
+1708.0,3,4,9.0,1,0,5.86,Whitefield,Furnished,152.61
+2374.0,4,3,10.0,0,9,1.07,HSR Layout,Semi-Furnished,248.71
+1041.0,2,1,9.0,1,6,5.19,Hebbal,Semi-Furnished,74.2
+751.0,2,1,17.0,0,1,3.02,Indiranagar,Semi-Furnished,85.76
+1061.0,2,2,7.0,1,12,0.81,Yelahanka,Furnished,78.27
+681.0,1,1,19.0,0,7,1.91,Jayanagar,Furnished,67.82
+901.0,2,3,29.0,0,20,7.1,Electronic City,Unfurnished,43.07
+1798.0,4,5,20.0,1,8,1.09,Yelahanka,Unfurnished,112.95
+1746.0,4,3,12.0,1,1,7.23,HSR Layout,Semi-Furnished,155.7
+604.0,1,1,13.0,1,14,3.47,Koramangala,Semi-Furnished,77.2
+998.0,2,2,18.0,1,14,3.06,Whitefield,Semi-Furnished,79.98
+1361.0,2,3,22.0,2,19,3.33,Yelahanka,Unfurnished,77.43
+978.0,2,2,9.0,1,14,1.87,Yelahanka,Semi-Furnished,70.67
+1381.0,3,3,1.0,1,7,1.13,Hebbal,Semi-Furnished,131.92
+579.0,1,1,21.0,2,14,2.5,Whitefield,Semi-Furnished,56.32
+,4,4,,1,16,3.14,Indiranagar,Semi-Furnished,212.42
+2637.0,5,6,3.0,1,10,3.59,Whitefield,Semi-Furnished,210.95
+1649.0,3,3,19.0,1,16,3.49,Whitefield,Semi-Furnished,122.72
+1574.0,3,2,2.0,0,20,4.15,Koramangala,Furnished,229.49
+1250.0,3,2,19.0,1,15,9.12,Electronic City,Semi-Furnished,66.62
+918.0,2,1,23.0,1,10,2.94,Whitefield,Semi-Furnished,68.32
+783.0,2,3,0.0,2,10,5.65,Yelahanka,Semi-Furnished,60.56
+1602.0,3,2,22.0,2,17,3.68,HSR Layout,Unfurnished,130.26
+491.0,1,1,3.0,0,18,9.76,Indiranagar,Unfurnished,56.27
+2047.0,4,4,8.0,0,5,2.64,Electronic City,Semi-Furnished,119.62
+1134.0,2,1,21.0,1,0,2.42,Jayanagar,Furnished,94.37
+1071.0,2,3,11.0,1,16,5.41,Indiranagar,Semi-Furnished,151.16
+906.0,2,3,30.0,1,4,5.42,Whitefield,Unfurnished,61.98
+2389.0,5,6,29.0,1,20,1.99,Whitefield,Semi-Furnished,157.89
+867.0,2,3,30.0,1,0,3.59,Jayanagar,Unfurnished,63.96
+746.0,2,3,3.0,2,19,4.18,Whitefield,Semi-Furnished,82.05
+1228.0,2,3,5.0,1,14,4.01,Hebbal,Furnished,121.73
+1376.0,3,3,5.0,0,6,3.33,HSR Layout,Semi-Furnished,146.31
+2252.0,5,6,18.0,1,0,0.45,Jayanagar,Semi-Furnished,241.83
+1019.0,2,2,13.0,1,17,4.05,Whitefield,Unfurnished,80.24
+1758.0,4,3,23.0,1,2,4.19,Yelahanka,Semi-Furnished,86.56
+1075.0,2,2,8.0,1,2,3.43,Hebbal,Furnished,88.7
+1266.0,3,3,6.0,1,16,1.82,HSR Layout,Semi-Furnished,124.18
+771.0,1,1,20.0,1,14,6.63,Koramangala,Semi-Furnished,93.44
+839.0,2,3,19.0,2,2,1.11,Yelahanka,Semi-Furnished,58.24
+1659.0,3,4,21.0,1,7,5.48,Indiranagar,Unfurnished,182.99
+1215.0,3,3,9.0,0,13,1.1,HSR Layout,Unfurnished,119.08
+932.0,2,2,16.0,1,13,5.03,HSR Layout,Unfurnished,77.73
+2190.0,4,5,28.0,1,7,1.15,Koramangala,Semi-Furnished,227.6
+2811.0,5,5,18.0,2,8,4.83,HSR Layout,Furnished,237.55
+917.0,2,3,28.0,1,1,7.63,Koramangala,Semi-Furnished,84.96
+1568.0,3,3,13.0,1,0,7.65,Whitefield,Unfurnished,112.47
+1748.0,3,2,1.0,2,20,6.55,Indiranagar,Unfurnished,238.14
+1049.0,2,3,23.0,1,4,2.62,Whitefield,Unfurnished,69.95
+1837.0,4,3,14.0,1,19,1.58,HSR Layout,Furnished,185.76
+966.0,2,1,1.0,1,0,2.31,Jayanagar,Semi-Furnished,109.59
+1377.0,3,4,4.0,1,20,5.2,Koramangala,Furnished,199.45
+637.0,1,2,9.0,1,8,4.01,Whitefield,Furnished,62.36
+847.0,2,3,5.0,2,16,10.35,Whitefield,Unfurnished,77.05
+1294.0,3,4,21.0,1,17,1.71,Electronic City,Semi-Furnished,74.17
+1652.0,3,2,18.0,1,7,7.98,Indiranagar,Furnished,207.73
+2056.0,4,5,10.0,0,15,2.46,HSR Layout,Semi-Furnished,189.48
+2898.0,5,5,2.0,0,7,1.1,Whitefield,Unfurnished,225.86
+563.0,1,1,2.0,1,16,3.25,Indiranagar,Furnished,90.94
+1136.0,2,2,29.0,2,20,3.94,HSR Layout,Furnished,97.22
+917.0,2,1,10.0,1,16,6.15,HSR Layout,Semi-Furnished,97.65
+1101.0,2,2,3.0,1,15,1.71,Electronic City,Semi-Furnished,80.78
+654.0,2,2,22.0,0,7,3.25,Jayanagar,Unfurnished,59.19
+1997.0,4,3,26.0,1,2,2.66,HSR Layout,Furnished,166.51
+1500.0,3,4,3.0,1,10,1.99,Jayanagar,Semi-Furnished,188.63
+730.0,1,1,29.0,2,2,7.44,Electronic City,Unfurnished,40.64
+806.0,2,3,22.0,1,10,3.98,Indiranagar,Semi-Furnished,96.19
+1271.0,3,3,7.0,2,18,0.25,Koramangala,Furnished,177.14
+1214.0,2,2,24.0,2,2,3.29,Indiranagar,Furnished,139.72
+807.0,2,3,13.0,1,18,0.58,Electronic City,Unfurnished,47.87
+1054.0,2,1,19.0,1,12,3.05,Koramangala,Unfurnished,110.96
+1285.0,2,3,3.0,1,0,0.69,Yelahanka,Furnished,103.24
+1203.0,2,1,7.0,2,15,3.99,HSR Layout,Furnished,138.66
+1294.0,3,4,23.0,1,0,0.57,Jayanagar,Semi-Furnished,125.32
+981.0,2,2,24.0,1,12,1.15,Hebbal,Semi-Furnished,72.04
+1622.0,3,3,0.0,1,10,4.64,Indiranagar,Semi-Furnished,248.68
+1399.0,3,2,6.0,1,15,2.62,Koramangala,Semi-Furnished,197.37
+1475.0,4,4,18.0,2,7,0.75,Hebbal,Unfurnished,112.87
+1038.0,2,2,28.0,2,2,7.13,Indiranagar,Unfurnished,97.01
+487.0,1,2,20.0,0,8,1.89,Koramangala,Unfurnished,46.09
+1278.0,2,3,21.0,1,15,2.16,Yelahanka,Furnished,85.55
+949.0,2,2,12.0,2,20,2.31,HSR Layout,Unfurnished,104.45
+1096.0,2,2,1.0,1,4,4.22,Whitefield,Unfurnished,96.52
+1252.0,3,3,23.0,2,7,2.01,HSR Layout,Semi-Furnished,107.79
+795.0,2,2,24.0,1,18,2.39,HSR Layout,Unfurnished,75.76
+685.0,1,1,13.0,2,6,5.74,Jayanagar,Unfurnished,71.73
+1102.0,2,1,15.0,1,5,5.26,Hebbal,Semi-Furnished,76.83
+1360.0,3,4,7.0,0,17,2.27,Koramangala,Semi-Furnished,176.1
+1844.0,4,3,14.0,0,10,2.34,Koramangala,Semi-Furnished,215.34
+1242.0,3,3,7.0,1,12,0.14,Electronic City,Furnished,82.34
+1422.0,3,4,13.0,0,10,3.01,Whitefield,Unfurnished,112.57
+1650.0,3,3,4.0,2,12,4.76,Indiranagar,Furnished,230.39
+1371.0,3,3,18.0,1,5,1.93,Koramangala,Furnished,153.03
+847.0,2,3,7.0,1,15,6.43,Whitefield,Furnished,84.46
+1317.0,3,2,22.0,1,7,0.5,Yelahanka,Semi-Furnished,70.99
+1316.0,3,3,16.0,2,10,1.23,Whitefield,Semi-Furnished,115.6
+1284.0,2,1,27.0,1,3,6.09,Whitefield,Semi-Furnished,77.24
+,3,3,,2,0,4.63,Yelahanka,Semi-Furnished,91.96
+828.0,2,1,8.0,2,11,0.47,Koramangala,Unfurnished,119.5
+1310.0,3,4,7.0,1,2,0.58,Jayanagar,Furnished,164.84
+537.0,1,1,19.0,2,19,4.03,Whitefield,Semi-Furnished,52.26
+1233.0,3,2,3.0,1,20,3.46,Koramangala,Furnished,185.27
+2271.0,4,4,21.0,1,6,2.13,Whitefield,Semi-Furnished,173.84
+979.0,2,2,25.0,1,6,6.28,Hebbal,Unfurnished,60.46
+1319.0,2,2,20.0,1,10,1.51,Electronic City,Semi-Furnished,75.31
+608.0,1,1,4.0,1,4,0.27,HSR Layout,Semi-Furnished,71.93
+601.0,1,1,15.0,1,18,4.22,Koramangala,Semi-Furnished,73.16
+2462.0,5,4,16.0,1,2,4.9,Whitefield,Unfurnished,153.29
+708.0,2,1,12.0,2,9,1.59,Electronic City,Unfurnished,49.27
+1130.0,2,2,14.0,1,3,0.93,Koramangala,Semi-Furnished,145.51
+1000.0,2,2,23.0,0,17,0.29,Electronic City,Semi-Furnished,56.84
+2788.0,5,4,25.0,1,3,2.59,Hebbal,Furnished,165.32
+1129.0,2,1,9.0,0,9,3.33,Jayanagar,Unfurnished,122.81
+1246.0,3,3,10.0,2,17,5.15,HSR Layout,Unfurnished,123.84
+1297.0,2,3,6.0,1,9,3.48,Whitefield,Unfurnished,96.29
+660.0,1,2,12.0,1,3,1.69,Indiranagar,Semi-Furnished,94.72
+1284.0,3,2,16.0,1,3,3.01,Jayanagar,Semi-Furnished,120.26
+609.0,1,2,22.0,1,12,5.33,Electronic City,Semi-Furnished,41.99
+1347.0,3,3,8.0,1,2,3.3,Electronic City,Furnished,92.37
+1181.0,2,2,6.0,1,7,4.81,HSR Layout,Unfurnished,115.6
+1526.0,3,2,1.0,1,12,0.98,Koramangala,Semi-Furnished,218.92
+1545.0,3,2,2.0,2,7,4.11,Yelahanka,Unfurnished,121.9
+1662.0,3,4,1.0,0,17,3.49,Jayanagar,Unfurnished,204.48
+557.0,1,1,6.0,1,14,2.0,Yelahanka,Semi-Furnished,45.42
+1659.0,3,2,21.0,0,2,5.4,Jayanagar,Unfurnished,159.42
+2719.0,5,4,24.0,1,17,9.04,Indiranagar,Semi-Furnished,263.42
+1004.0,2,3,30.0,0,19,0.45,Indiranagar,Semi-Furnished,109.27
+1137.0,2,3,16.0,2,4,2.08,Koramangala,Semi-Furnished,128.11
+1780.0,3,2,14.0,0,7,2.45,Yelahanka,Semi-Furnished,92.55
+1020.0,2,3,27.0,1,8,2.59,Electronic City,Semi-Furnished,53.23
+1503.0,3,4,4.0,1,8,1.54,HSR Layout,Semi-Furnished,167.79
+1811.0,3,3,19.0,1,9,0.55,Yelahanka,Unfurnished,105.33
+789.0,1,1,25.0,0,18,2.16,Electronic City,Unfurnished,36.92
+,3,2,,1,13,2.46,Yelahanka,Semi-Furnished,96.12
+1252.0,3,2,8.0,2,18,2.02,Yelahanka,Furnished,91.28
+1346.0,2,3,19.0,1,7,2.5,Whitefield,Unfurnished,101.05
+2147.0,4,3,30.0,2,11,3.07,Indiranagar,Semi-Furnished,220.44
+1007.0,2,2,7.0,1,2,2.23,Hebbal,Furnished,84.4
+889.0,2,2,17.0,1,5,1.52,Jayanagar,Furnished,90.85
+1990.0,4,3,1.0,1,12,2.52,Koramangala,Semi-Furnished,294.97
+985.0,2,3,7.0,0,3,3.24,Indiranagar,Semi-Furnished,138.97
+1737.0,4,5,23.0,1,20,2.69,Electronic City,Semi-Furnished,97.18
+647.0,1,2,15.0,0,5,9.44,Jayanagar,Furnished,68.39
+997.0,2,2,6.0,1,3,3.41,Whitefield,Unfurnished,84.05
+468.0,1,1,10.0,1,16,2.6,Electronic City,Furnished,36.1
+1634.0,3,2,3.0,2,1,1.34,Indiranagar,Unfurnished,214.66
+1629.0,3,3,24.0,1,6,1.37,Koramangala,Furnished,171.98
+2114.0,4,5,29.0,2,4,2.02,Electronic City,Unfurnished,104.22
+2110.0,5,4,3.0,0,14,2.07,HSR Layout,Unfurnished,238.14
+1556.0,3,4,7.0,1,17,2.01,Hebbal,Unfurnished,128.71
+1511.0,3,2,26.0,1,4,3.52,Indiranagar,Semi-Furnished,163.91
+1266.0,3,4,27.0,0,8,5.28,Jayanagar,Unfurnished,100.12
+1968.0,4,4,23.0,0,10,4.23,Whitefield,Unfurnished,119.09
+1373.0,3,3,22.0,1,14,3.89,Jayanagar,Semi-Furnished,118.61
+2494.0,4,4,26.0,1,7,1.21,Whitefield,Semi-Furnished,158.4
+1230.0,2,2,11.0,1,10,5.82,Hebbal,Furnished,89.11
+1128.0,2,1,27.0,2,10,1.32,Indiranagar,Furnished,142.91
+1444.0,3,3,27.0,1,0,3.18,HSR Layout,Semi-Furnished,114.44
+1053.0,2,3,7.0,0,11,3.73,Whitefield,Unfurnished,86.78
+1010.0,2,1,2.0,0,11,5.93,Hebbal,Unfurnished,85.7
+1795.0,5,6,16.0,0,20,8.34,Koramangala,Furnished,183.25
+775.0,2,2,23.0,1,10,1.96,Hebbal,Unfurnished,54.6
+1021.0,2,3,26.0,1,18,2.99,Hebbal,Semi-Furnished,80.75
+921.0,2,3,4.0,1,7,5.57,Jayanagar,Furnished,112.18
+842.0,2,1,11.0,0,14,8.81,Hebbal,Furnished,71.32
+1398.0,3,2,23.0,1,18,2.13,Indiranagar,Semi-Furnished,164.34
+1800.0,4,5,1.0,1,3,1.27,Hebbal,Semi-Furnished,172.76
+2109.0,5,4,22.0,1,11,0.75,Jayanagar,Semi-Furnished,215.39
+1394.0,3,3,9.0,2,19,0.47,Indiranagar,Furnished,209.09
+1841.0,3,4,0.0,1,11,1.46,Whitefield,Unfurnished,164.0
+1096.0,2,2,7.0,1,18,4.84,Yelahanka,Unfurnished,74.31
+1838.0,4,3,22.0,2,8,5.04,Koramangala,Semi-Furnished,174.84
+992.0,2,1,26.0,1,18,3.41,Electronic City,Unfurnished,50.97
+,1,2,,2,13,2.05,Koramangala,Semi-Furnished,86.91
+,5,6,,2,10,,Koramangala,,262.42
+1540.0,4,4,6.0,1,4,2.72,Jayanagar,Furnished,191.83
+1153.0,2,2,21.0,1,3,2.13,Koramangala,Furnished,145.45
+1529.0,3,4,24.0,1,6,3.3,Hebbal,Semi-Furnished,87.2
+915.0,2,3,29.0,1,15,1.98,Hebbal,Furnished,60.94
+1060.0,2,2,11.0,1,9,3.29,Whitefield,Unfurnished,83.66
+991.0,2,2,9.0,1,8,3.67,Koramangala,Semi-Furnished,134.83
+754.0,2,3,9.0,2,9,4.32,Jayanagar,Unfurnished,88.87
+1511.0,3,4,23.0,1,7,0.58,Electronic City,Furnished,77.87
+1275.0,2,2,13.0,0,16,5.87,Whitefield,Furnished,99.03
+1640.0,3,4,0.0,1,8,2.46,Yelahanka,Furnished,117.62
+1342.0,2,1,29.0,1,9,8.4,Indiranagar,Furnished,115.33
+2173.0,4,5,3.0,1,11,4.86,Whitefield,Furnished,221.51
+1718.0,3,2,28.0,1,13,1.3,Yelahanka,Unfurnished,83.44
+2482.0,4,3,5.0,1,7,3.94,Whitefield,Furnished,218.06
+510.0,1,1,16.0,1,1,5.59,Electronic City,Semi-Furnished,29.72
+1379.0,3,2,9.0,0,14,2.21,Yelahanka,Semi-Furnished,87.96
+2108.0,4,4,21.0,1,11,1.22,Electronic City,Semi-Furnished,106.76
+920.0,2,3,12.0,1,13,1.04,Electronic City,Unfurnished,59.9
+905.0,2,3,11.0,1,11,0.73,HSR Layout,Unfurnished,97.39
+929.0,2,2,14.0,1,10,0.31,Koramangala,Unfurnished,121.04
+1032.0,2,2,30.0,1,19,2.5,Electronic City,Unfurnished,55.8
+838.0,2,2,7.0,1,1,1.09,Yelahanka,Semi-Furnished,55.04
+898.0,2,1,6.0,0,1,1.59,Whitefield,Furnished,82.32
+1034.0,2,3,2.0,0,19,8.53,Yelahanka,Semi-Furnished,74.2
+1366.0,3,2,22.0,2,18,3.68,HSR Layout,Semi-Furnished,117.44
+538.0,1,1,21.0,0,8,1.27,Electronic City,Semi-Furnished,29.78
+683.0,2,3,18.0,0,11,11.16,Koramangala,Semi-Furnished,443.09999999999997
+1075.0,3,4,0.0,2,9,3.27,Electronic City,Unfurnished,80.69
+904.0,2,2,24.0,1,20,10.52,Koramangala,Furnished,95.22
+1067.0,2,1,25.0,1,9,7.21,Indiranagar,Unfurnished,97.14
+1069.0,2,3,29.0,1,15,3.35,Hebbal,Semi-Furnished,78.71
+601.0,1,2,28.0,2,7,2.48,Whitefield,Furnished,44.24
+1027.0,2,2,8.0,0,8,4.8,HSR Layout,Semi-Furnished,104.37
+644.0,1,1,22.0,1,14,3.14,Electronic City,Furnished,41.32
+1048.0,2,2,12.0,2,8,1.85,Koramangala,Unfurnished,133.09
+2487.0,5,5,18.0,2,0,1.76,Indiranagar,Furnished,294.61
+,4,5,,2,3,,Indiranagar,,286.31
+1116.0,2,3,20.0,1,18,1.27,Hebbal,Furnished,88.28
+1253.0,2,1,29.0,2,7,5.28,Yelahanka,Semi-Furnished,58.8
+1147.0,2,1,20.0,1,2,2.78,Jayanagar,Furnished,104.09
+1352.0,4,5,28.0,1,19,0.6,Koramangala,Furnished,147.76
+1439.0,3,2,28.0,2,20,5.57,Whitefield,Semi-Furnished,87.19
+1032.0,2,2,3.0,0,10,1.29,Whitefield,Furnished,108.45
+1171.0,2,1,29.0,1,13,1.45,Electronic City,Semi-Furnished,60.77
+1214.0,2,2,25.0,1,15,2.29,Koramangala,Semi-Furnished,137.82
+1530.0,4,4,13.0,2,1,2.59,Koramangala,Furnished,212.07
+2163.0,4,3,18.0,0,6,3.37,Jayanagar,Semi-Furnished,196.39
+536.0,1,1,19.0,2,11,5.38,Jayanagar,Semi-Furnished,56.23
+1397.0,3,3,24.0,1,11,5.25,Jayanagar,Unfurnished,100.06
+1079.0,2,1,24.0,1,6,1.72,Indiranagar,Unfurnished,110.1
+1407.0,3,4,3.0,1,0,1.76,Electronic City,Furnished,108.79
+1564.0,4,5,0.0,2,20,4.99,Electronic City,Semi-Furnished,109.59
+1018.0,2,2,7.0,0,12,1.1,Koramangala,Semi-Furnished,130.58
+600.0,1,1,16.0,1,15,2.77,Electronic City,Unfurnished,37.82
+,3,3,,0,9,,Electronic City,,76.52
+1077.0,2,2,20.0,2,10,1.93,HSR Layout,Furnished,114.68
+1371.0,3,3,4.0,2,9,0.72,Jayanagar,Furnished,162.48
+968.0,2,2,22.0,1,9,1.3,Hebbal,Unfurnished,61.6
+2450.0,4,5,14.0,1,14,1.37,Electronic City,Semi-Furnished,156.26
+678.0,2,1,11.0,1,20,1.2,Hebbal,Semi-Furnished,63.74
+1041.0,2,1,23.0,1,16,2.21,Jayanagar,Semi-Furnished,97.22
+1027.0,2,1,9.0,2,14,10.39,Electronic City,Semi-Furnished,70.0
+535.0,1,1,19.0,1,0,3.86,Indiranagar,Semi-Furnished,57.48
+955.0,2,3,5.0,1,10,2.38,Jayanagar,Semi-Furnished,123.52
+1493.0,3,4,11.0,1,20,2.54,Hebbal,Semi-Furnished,122.19
+1040.0,2,2,17.0,1,8,1.53,Yelahanka,Semi-Furnished,67.84
+501.0,1,2,19.0,0,11,2.53,Koramangala,Semi-Furnished,49.83
+1057.0,2,1,28.0,0,6,6.66,HSR Layout,Furnished,75.22
+639.0,1,1,9.0,1,4,2.84,Yelahanka,Semi-Furnished,46.25
+1751.0,4,5,27.0,1,14,5.23,Electronic City,Unfurnished,84.02
+1791.0,4,4,25.0,0,6,4.76,Yelahanka,Furnished,99.54
+660.0,1,1,11.0,1,12,10.08,Whitefield,Furnished,59.39
+1215.0,3,4,4.0,1,12,4.7,Whitefield,Unfurnished,101.4
+1487.0,3,2,7.0,1,17,9.62,Jayanagar,Semi-Furnished,160.94
+2182.0,5,6,20.0,0,19,5.5,Indiranagar,Unfurnished,217.83
+1065.0,2,3,24.0,1,11,3.37,Electronic City,Semi-Furnished,58.95
+1009.0,2,2,18.0,0,1,1.42,HSR Layout,Unfurnished,89.04
+1160.0,2,2,22.0,1,12,5.21,HSR Layout,Semi-Furnished,93.25
+1630.0,4,3,3.0,0,18,5.52,Yelahanka,Unfurnished,110.98
+1296.0,3,2,15.0,1,10,5.62,Whitefield,Semi-Furnished,94.55
+804.0,2,1,27.0,2,11,0.12,Jayanagar,Furnished,78.97
+840.0,2,3,12.0,0,16,1.89,Yelahanka,Semi-Furnished,61.33
+1702.0,3,2,27.0,1,9,3.83,Hebbal,Furnished,100.4
+2070.0,4,3,3.0,1,8,2.01,HSR Layout,Furnished,221.79
+791.0,2,1,30.0,1,10,1.75,Koramangala,Furnished,84.34
+1208.0,3,2,24.0,1,17,1.52,Hebbal,Unfurnished,81.74
+,2,1,,1,10,0.62,HSR Layout,Furnished,91.31
+936.0,2,1,19.0,1,6,3.68,Koramangala,Unfurnished,101.83
+1126.0,3,4,29.0,2,12,1.65,Indiranagar,Semi-Furnished,121.39
+1283.0,3,4,11.0,2,14,1.93,Yelahanka,Furnished,535.74
+2581.0,5,5,5.0,1,19,2.38,Indiranagar,Semi-Furnished,306.91
+632.0,2,3,28.0,1,18,4.12,Koramangala,Semi-Furnished,73.27
+980.0,2,2,3.0,0,16,3.3,Hebbal,Semi-Furnished,79.98
+950.0,2,3,20.0,1,16,3.19,Koramangala,Furnished,104.61
+964.0,2,3,8.0,0,9,0.25,Yelahanka,Semi-Furnished,70.47
+984.0,2,1,28.0,0,7,5.3,Jayanagar,Semi-Furnished,80.07
+656.0,1,1,30.0,1,11,8.06,Yelahanka,Furnished,34.31
+1159.0,2,3,14.0,2,14,3.13,Yelahanka,Unfurnished,82.96
+987.0,2,1,16.0,0,10,1.07,Koramangala,Unfurnished,120.77
+989.0,2,2,14.0,1,4,1.79,Koramangala,Semi-Furnished,127.14
+1267.0,3,3,13.0,1,0,1.11,Indiranagar,Furnished,182.69
+996.0,2,1,29.0,2,1,7.43,HSR Layout,Unfurnished,72.26
+1683.0,3,2,8.0,1,8,1.93,Yelahanka,Unfurnished,104.01
+2065.0,4,3,29.0,0,16,3.23,Hebbal,Unfurnished,113.71
+1642.0,3,4,20.0,0,16,2.31,Hebbal,Furnished,121.81
+925.0,2,3,29.0,1,16,3.98,Yelahanka,Unfurnished,48.52
+933.0,2,2,18.0,1,14,1.34,Hebbal,Semi-Furnished,69.19
+1399.0,3,2,25.0,2,0,3.14,HSR Layout,Furnished,108.65
+1457.0,3,2,15.0,2,18,1.94,HSR Layout,Unfurnished,142.11
+901.0,2,2,14.0,2,19,5.79,Electronic City,Semi-Furnished,61.67
+1139.0,2,1,7.0,1,17,0.29,Whitefield,Semi-Furnished,99.73
+1631.0,3,3,6.0,1,9,2.12,Hebbal,Furnished,147.89
+1039.0,2,3,1.0,1,4,5.42,Hebbal,Semi-Furnished,84.26
+1511.0,3,2,11.0,0,19,4.99,Hebbal,Semi-Furnished,106.99
+589.0,1,1,30.0,1,3,0.67,Electronic City,Unfurnished,30.8
+1189.0,2,3,29.0,1,16,4.62,Jayanagar,Semi-Furnished,107.6
+1110.0,3,3,21.0,1,20,1.23,Yelahanka,Furnished,71.16
+1137.0,2,3,11.0,2,18,1.57,Electronic City,Unfurnished,79.2
+1322.0,3,4,16.0,2,10,5.21,HSR Layout,Semi-Furnished,121.13
+1057.0,2,2,23.0,1,17,2.08,Whitefield,Furnished,81.67
+859.0,2,1,0.0,1,17,0.62,Jayanagar,Unfurnished,110.71
+,4,5,,0,20,,Yelahanka,,81.1
+840.0,2,2,26.0,1,7,2.8,Hebbal,Semi-Furnished,57.59
+963.0,2,2,30.0,0,13,2.03,Jayanagar,Unfurnished,78.51
+1856.0,4,3,2.0,1,17,2.0,Jayanagar,Unfurnished,203.88
+1751.0,3,4,29.0,1,4,3.94,Jayanagar,Semi-Furnished,145.16
+1519.0,3,2,19.0,2,4,3.44,Electronic City,Unfurnished,82.76
+574.0,1,1,17.0,2,8,2.14,Whitefield,Semi-Furnished,54.06
+724.0,2,1,5.0,0,7,5.05,Whitefield,Semi-Furnished,57.45
+1643.0,3,3,15.0,1,15,3.96,Koramangala,Semi-Furnished,196.87
+941.0,2,1,11.0,0,19,3.29,HSR Layout,Unfurnished,83.02
+,2,2,,1,3,1.78,Hebbal,Furnished,65.76
+1349.0,3,2,10.0,1,6,5.6,HSR Layout,Unfurnished,122.19
+1165.0,2,2,6.0,0,19,1.98,Whitefield,Furnished,99.69
+669.0,1,2,29.0,0,12,2.13,Koramangala,Semi-Furnished,64.14
+449.0,1,1,5.0,1,4,7.55,Yelahanka,Furnished,34.39
+1058.0,2,2,28.0,0,12,1.29,Yelahanka,Unfurnished,47.16
+1486.0,3,2,29.0,2,18,1.28,HSR Layout,Unfurnished,115.28
+1715.0,4,3,9.0,1,7,2.19,Jayanagar,Semi-Furnished,169.54
+533.0,1,2,21.0,1,10,1.06,Hebbal,Unfurnished,48.15
+1044.0,2,2,24.0,2,12,1.08,Yelahanka,Unfurnished,64.52
+1515.0,3,2,16.0,1,17,7.4,Yelahanka,Semi-Furnished,88.2
+1087.0,2,2,21.0,1,11,2.16,Hebbal,Furnished,81.56
+896.0,2,1,4.0,2,20,3.37,HSR Layout,Unfurnished,105.7
+1633.0,4,3,15.0,1,15,0.74,Hebbal,Furnished,138.4
+1402.0,3,3,15.0,0,8,1.2,Indiranagar,Furnished,164.07
+1006.0,2,2,17.0,1,10,8.09,Indiranagar,Furnished,128.25
+2221.0,5,5,29.0,1,14,1.07,Electronic City,Semi-Furnished,115.86
+645.0,1,2,25.0,2,1,3.45,Electronic City,Semi-Furnished,38.9
+2070.0,4,3,18.0,0,4,0.1,Electronic City,Semi-Furnished,107.72
+1507.0,3,2,12.0,1,5,0.68,HSR Layout,Semi-Furnished,121.42
+1610.0,3,3,12.0,1,16,2.14,HSR Layout,Furnished,155.7
+1951.0,4,5,0.0,2,17,4.94,Whitefield,Unfurnished,183.0
+1291.0,3,4,17.0,0,17,2.68,Electronic City,Unfurnished,78.41
+738.0,2,3,7.0,1,2,2.29,Electronic City,Unfurnished,52.04
+979.0,2,1,27.0,2,6,4.19,Yelahanka,Furnished,55.78
+1417.0,3,4,23.0,1,6,3.11,Electronic City,Semi-Furnished,83.81
+1288.0,3,4,28.0,0,0,0.51,HSR Layout,Semi-Furnished,106.75
+1066.0,2,2,30.0,0,5,2.55,Whitefield,Furnished,64.97
+1230.0,3,3,12.0,2,9,1.81,Koramangala,Furnished,183.5
+1120.0,3,3,13.0,1,18,2.22,Indiranagar,Unfurnished,134.69
+1100.0,2,2,18.0,1,3,1.77,HSR Layout,Furnished,95.87
+669.0,1,2,13.0,2,18,2.58,Indiranagar,Furnished,98.59
+912.0,2,1,8.0,1,17,3.54,HSR Layout,Unfurnished,89.64
+416.0,1,1,21.0,0,3,0.83,Jayanagar,Furnished,40.62
+510.0,1,2,13.0,1,5,1.48,Koramangala,Semi-Furnished,69.81
+1186.0,2,2,29.0,2,9,4.09,Indiranagar,Semi-Furnished,120.6
+465.0,1,2,6.0,1,19,4.46,Koramangala,Semi-Furnished,69.11
+859.0,2,1,13.0,1,16,6.71,Indiranagar,Unfurnished,103.26
+1684.0,3,2,16.0,0,20,2.72,Hebbal,Unfurnished,99.39
+848.0,2,3,28.0,0,6,1.41,Whitefield,Unfurnished,49.93
+2861.0,5,4,17.0,2,19,1.5,Indiranagar,Unfurnished,326.54
+2480.0,4,4,2.0,0,20,2.66,Whitefield,Semi-Furnished,209.29
+968.0,3,2,10.0,0,12,1.19,Yelahanka,Semi-Furnished,63.85
+2319.0,5,6,27.0,2,3,6.4,Hebbal,Unfurnished,145.74
+1746.0,4,3,8.0,1,5,1.76,Koramangala,Semi-Furnished,218.51
+770.0,2,2,10.0,1,2,5.8,Koramangala,Semi-Furnished,84.99
+1345.0,3,4,4.0,2,16,1.06,Whitefield,Semi-Furnished,126.7
+1149.0,2,2,22.0,0,6,2.23,HSR Layout,Furnished,109.86
+1387.0,3,3,4.0,1,14,1.97,Jayanagar,Semi-Furnished,183.61
+904.0,2,3,11.0,1,5,0.72,Electronic City,Furnished,64.72
+630.0,1,1,22.0,0,20,2.1,Yelahanka,Unfurnished,34.6
+1078.0,2,3,27.0,1,16,3.1,Indiranagar,Semi-Furnished,118.94
+1707.0,4,5,6.0,1,7,0.26,Indiranagar,Furnished,263.1
+903.0,2,2,10.0,2,10,3.77,HSR Layout,Furnished,101.42
+1240.0,2,3,3.0,2,1,3.29,Koramangala,Semi-Furnished,162.2
+917.0,2,2,13.0,2,2,2.53,Yelahanka,Semi-Furnished,61.67
+765.0,2,3,30.0,1,20,4.32,Koramangala,Semi-Furnished,75.91
+1748.0,4,4,9.0,1,17,4.53,HSR Layout,Semi-Furnished,164.54
+1430.0,3,3,8.0,2,17,12.77,Electronic City,Furnished,99.36
+1240.0,2,2,12.0,1,13,0.68,Whitefield,Furnished,115.74
+1092.0,2,2,27.0,1,4,7.04,HSR Layout,Semi-Furnished,80.09
+545.0,1,1,16.0,2,2,5.11,HSR Layout,Unfurnished,54.49
+956.0,2,1,18.0,1,15,3.29,Indiranagar,Semi-Furnished,117.64
+1366.0,3,3,24.0,0,6,1.07,Koramangala,Unfurnished,151.14
+1574.0,3,3,22.0,1,0,1.86,Whitefield,Unfurnished,111.27
+822.0,2,2,18.0,1,0,1.65,Whitefield,Unfurnished,64.5
+1483.0,3,3,17.0,1,11,2.34,HSR Layout,Semi-Furnished,138.52
+835.0,2,2,16.0,1,17,4.2,Whitefield,Unfurnished,65.9
+1679.0,3,2,5.0,2,7,6.16,Yelahanka,Unfurnished,116.48
+1815.0,3,3,12.0,1,20,8.4,Koramangala,Unfurnished,201.11
+1320.0,3,3,26.0,1,8,1.87,Hebbal,Furnished,85.28
+1495.0,3,4,1.0,1,15,2.92,Hebbal,Semi-Furnished,138.44
+1561.0,4,4,25.0,2,5,1.26,HSR Layout,Unfurnished,136.9
+1049.0,2,1,17.0,2,12,5.28,Yelahanka,Unfurnished,56.11
+615.0,1,1,10.0,0,5,3.45,Whitefield,Semi-Furnished,46.4
+931.0,2,3,3.0,2,16,2.17,Koramangala,Unfurnished,135.34
+1481.0,3,2,23.0,2,9,0.64,Indiranagar,Semi-Furnished,150.19
+1330.0,3,2,0.0,1,0,2.95,Koramangala,Semi-Furnished,160.76
+1478.0,3,3,16.0,1,5,3.18,Indiranagar,Furnished,182.25
+1502.0,3,3,5.0,0,7,0.45,Indiranagar,Unfurnished,210.79
+805.0,2,2,28.0,1,9,0.84,Jayanagar,Semi-Furnished,76.64
+1655.0,3,2,5.0,1,5,2.9,Indiranagar,Unfurnished,238.81
+1202.0,3,4,24.0,1,12,7.92,Yelahanka,Furnished,69.99
+1300.0,2,1,17.0,2,20,5.66,Jayanagar,Furnished,132.67
+840.0,2,3,1.0,0,14,2.22,Yelahanka,Semi-Furnished,60.02
+972.0,2,2,22.0,2,6,1.97,Whitefield,Semi-Furnished,73.71
+934.0,2,1,27.0,1,14,1.44,Yelahanka,Unfurnished,53.22
+1424.0,3,3,6.0,2,20,1.32,Electronic City,Furnished,110.48
+2024.0,4,3,30.0,1,5,2.08,Yelahanka,Semi-Furnished,98.12
+1667.0,3,4,24.0,1,4,9.51,Indiranagar,Unfurnished,161.01
+1045.0,2,1,23.0,1,0,1.96,Yelahanka,Semi-Furnished,59.91
+1321.0,3,3,10.0,2,17,2.58,Electronic City,Semi-Furnished,90.11
+1567.0,3,2,3.0,0,17,0.9,Whitefield,Furnished,160.19
+923.0,2,2,13.0,1,8,3.88,HSR Layout,Semi-Furnished,86.99
+1573.0,4,4,25.0,2,18,2.55,Koramangala,Semi-Furnished,164.73
+610.0,1,1,18.0,0,13,1.86,Yelahanka,Semi-Furnished,36.89
+507.0,1,2,20.0,1,20,1.11,Indiranagar,Unfurnished,71.28
+1154.0,2,1,24.0,0,19,1.37,Koramangala,Semi-Furnished,110.26
+893.0,2,1,10.0,0,20,1.76,Electronic City,Unfurnished,53.84
+1863.0,4,4,1.0,1,8,1.86,HSR Layout,Furnished,195.12
+1072.0,2,1,27.0,1,13,1.1,Whitefield,Semi-Furnished,76.18
+1328.0,2,2,19.0,1,3,2.37,Jayanagar,Semi-Furnished,136.81
+971.0,2,3,17.0,1,18,3.0,Jayanagar,Unfurnished,106.69
+816.0,2,1,17.0,1,6,4.37,Hebbal,Unfurnished,59.45
+1142.0,2,2,26.0,2,9,7.63,Electronic City,Semi-Furnished,61.5
+788.0,2,1,23.0,1,12,0.44,HSR Layout,Unfurnished,72.64
+1745.0,3,2,20.0,1,16,3.34,Electronic City,Unfurnished,92.46
+931.0,2,1,24.0,1,15,2.03,Electronic City,Furnished,55.47
+1795.0,3,2,8.0,2,20,0.31,Koramangala,Semi-Furnished,228.04
+708.0,2,2,22.0,1,14,1.53,Whitefield,Semi-Furnished,57.2
+1659.0,3,4,30.0,1,16,4.06,Indiranagar,Semi-Furnished,163.43
+,3,4,,1,12,,HSR Layout,,153.68
+993.0,2,1,17.0,1,8,2.8,Koramangala,Unfurnished,97.14
+486.0,1,2,21.0,2,19,1.4,Whitefield,Furnished,47.8
+1993.0,4,4,16.0,1,7,6.32,Jayanagar,Furnished,199.88
+1022.0,2,2,30.0,1,13,0.98,Indiranagar,Semi-Furnished,112.13
+1825.0,3,4,12.0,1,6,1.89,Electronic City,Semi-Furnished,108.86
+760.0,1,1,6.0,1,10,2.16,Electronic City,Semi-Furnished,60.7
+894.0,2,1,4.0,1,7,2.41,Hebbal,Semi-Furnished,72.48
+,3,3,,2,5,,Hebbal,,81.29
+1576.0,4,5,21.0,1,17,7.21,Indiranagar,Semi-Furnished,186.45
+1187.0,2,3,17.0,0,16,3.61,Jayanagar,Unfurnished,121.73
+1178.0,3,2,13.0,1,14,2.56,Indiranagar,Unfurnished,152.49
+1602.0,3,4,12.0,1,1,2.54,Jayanagar,Semi-Furnished,181.07
+549.0,1,1,28.0,2,5,4.27,HSR Layout,Unfurnished,47.73
+878.0,2,3,21.0,1,4,5.52,Whitefield,Semi-Furnished,71.13
+1086.0,2,1,29.0,1,14,0.96,Jayanagar,Semi-Furnished,101.62
+1119.0,2,1,24.0,1,18,7.68,Whitefield,Furnished,73.63
+1435.0,3,4,23.0,2,7,3.48,Jayanagar,Unfurnished,134.22
+790.0,2,2,17.0,2,6,1.65,Whitefield,Semi-Furnished,62.0
+948.0,2,1,7.0,0,11,2.3,Koramangala,Semi-Furnished,130.04
+1414.0,3,2,20.0,1,20,3.62,Electronic City,Unfurnished,76.99
+1454.0,3,2,22.0,2,7,3.74,Yelahanka,Unfurnished,86.59
+1492.0,3,2,16.0,2,5,1.11,HSR Layout,Unfurnished,137.32
+1498.0,3,4,0.0,1,10,2.46,Whitefield,Unfurnished,122.72
+1030.0,2,1,29.0,1,19,3.0,Koramangala,Unfurnished,111.25
+1363.0,3,2,25.0,1,15,5.58,Yelahanka,Semi-Furnished,72.91
+962.0,2,3,10.0,1,10,5.99,Hebbal,Semi-Furnished,72.95
+1191.0,2,3,15.0,0,15,0.86,Whitefield,Unfurnished,99.56
+1140.0,2,1,3.0,1,0,2.66,HSR Layout,Unfurnished,131.09
+1713.0,3,3,29.0,0,15,1.58,Indiranagar,Unfurnished,161.87
+1374.0,3,3,7.0,1,2,3.56,Koramangala,Semi-Furnished,170.73
+1061.0,2,2,11.0,2,8,10.34,Jayanagar,Unfurnished,106.34
+2147.0,4,3,13.0,2,7,5.14,Electronic City,Semi-Furnished,112.75
+1898.0,4,5,8.0,0,14,3.79,Koramangala,Unfurnished,215.9
+564.0,1,2,19.0,0,5,4.55,Hebbal,Unfurnished,42.29
+1812.0,3,4,30.0,1,5,6.87,HSR Layout,Furnished,131.73
+1015.0,2,3,26.0,1,18,4.83,Whitefield,Unfurnished,67.76
+2790.0,5,4,16.0,0,10,1.0,HSR Layout,Unfurnished,238.02
+842.0,2,2,4.0,2,15,8.06,Koramangala,Unfurnished,115.87
+1037.0,2,3,26.0,1,12,2.86,Koramangala,Furnished,97.79
+1335.0,2,2,7.0,0,13,3.46,Yelahanka,Semi-Furnished,88.27
+997.0,2,3,28.0,1,14,5.98,Hebbal,Semi-Furnished,74.67
+1273.0,3,3,12.0,1,14,10.01,Koramangala,Furnished,163.93
+736.0,2,3,16.0,1,19,1.88,Jayanagar,Unfurnished,85.92
+1002.0,2,3,13.0,1,16,5.76,Electronic City,Furnished,71.34
+1351.0,3,3,14.0,2,6,1.79,Jayanagar,Unfurnished,153.0
+1755.0,4,5,5.0,0,3,3.25,Hebbal,Semi-Furnished,140.55
+1242.0,3,3,17.0,1,17,0.72,Indiranagar,Semi-Furnished,167.1
+1208.0,2,1,12.0,1,7,1.8,Electronic City,Semi-Furnished,78.86
+1143.0,2,2,26.0,1,6,3.14,Electronic City,Furnished,54.64
+1041.0,2,3,14.0,1,2,3.93,Hebbal,Unfurnished,78.55
+1606.0,4,3,29.0,1,11,3.78,Koramangala,Furnished,157.12
+1500.0,3,2,9.0,0,10,5.27,Indiranagar,Semi-Furnished,188.03
+1348.0,3,3,10.0,2,17,2.01,Koramangala,Semi-Furnished,175.68
+1639.0,4,4,1.0,1,15,2.49,Indiranagar,Furnished,258.64
+930.0,2,2,22.0,2,15,2.58,Koramangala,Unfurnished,104.71
+1459.0,3,3,2.0,1,11,2.13,Whitefield,Furnished,151.04
+726.0,2,2,8.0,2,18,1.29,Yelahanka,Semi-Furnished,63.6
+907.0,2,1,28.0,1,20,2.87,Whitefield,Semi-Furnished,63.28
+974.0,2,1,18.0,1,17,4.7,Yelahanka,Unfurnished,55.16
+1087.0,2,3,17.0,1,7,3.41,Whitefield,Semi-Furnished,82.59
+2036.0,4,4,24.0,2,5,1.93,Jayanagar,Semi-Furnished,189.06
+951.0,2,3,23.0,1,0,2.91,Indiranagar,Semi-Furnished,101.41
+1465.0,3,3,27.0,1,20,1.84,Electronic City,Unfurnished,79.03
+1896.0,3,2,20.0,1,15,4.0,Indiranagar,Unfurnished,208.14
+1474.0,3,3,13.0,1,19,4.8,HSR Layout,Furnished,159.01
+2055.0,4,5,4.0,1,16,4.88,HSR Layout,Unfurnished,201.92
+859.0,2,3,11.0,2,9,2.3,Electronic City,Semi-Furnished,58.96
+1164.0,2,1,21.0,1,3,1.87,HSR Layout,Furnished,111.03
+1014.0,2,3,7.0,1,0,5.27,Electronic City,Unfurnished,61.81
+,2,2,,1,16,,Jayanagar,,113.8
+1825.0,4,3,4.0,2,6,2.88,HSR Layout,Semi-Furnished,205.93
+1055.0,2,2,1.0,1,7,3.38,Indiranagar,Unfurnished,154.93
+1181.0,2,1,11.0,1,17,2.71,Koramangala,Semi-Furnished,134.01
+1089.0,2,1,7.0,0,10,4.4,Indiranagar,Semi-Furnished,152.86
+,2,3,,1,19,0.8,Koramangala,Semi-Furnished,111.46
+1282.0,3,4,11.0,1,11,3.75,Koramangala,Semi-Furnished,173.97
+1131.0,2,2,12.0,1,17,1.45,Yelahanka,Semi-Furnished,71.76
+1409.0,3,4,12.0,1,2,1.99,Whitefield,Semi-Furnished,118.33
+1461.0,3,4,9.0,2,8,3.08,HSR Layout,Unfurnished,147.66
+1508.0,3,3,28.0,1,3,0.62,Jayanagar,Semi-Furnished,114.29
+1050.0,2,1,22.0,1,1,2.39,Yelahanka,Furnished,61.46
+1289.0,3,3,4.0,0,20,2.1,Koramangala,Semi-Furnished,153.64
+1180.0,2,1,6.0,0,10,2.49,Koramangala,Semi-Furnished,145.48
+979.0,2,3,2.0,0,7,2.01,Indiranagar,Unfurnished,147.4
+1336.0,3,3,7.0,1,7,2.89,Electronic City,Unfurnished,80.05
+1330.0,3,4,20.0,1,5,1.78,Yelahanka,Unfurnished,73.48
+1012.0,2,3,29.0,1,2,2.63,Koramangala,Unfurnished,97.59
+1603.0,4,4,14.0,1,19,3.08,Koramangala,Furnished,195.92
+632.0,1,2,2.0,0,2,5.4,Indiranagar,Unfurnished,82.03
+1293.0,3,4,1.0,1,8,6.2,Jayanagar,Furnished,172.23
+2982.0,5,6,12.0,0,3,0.87,Whitefield,Unfurnished,211.25
+1623.0,3,2,8.0,0,19,5.68,HSR Layout,Unfurnished,147.37
+1550.0,3,3,17.0,0,4,1.28,Whitefield,Semi-Furnished,120.33
+1560.0,3,4,3.0,1,8,2.65,Koramangala,Unfurnished,187.57
+1100.0,3,4,7.0,2,15,0.66,Yelahanka,Furnished,101.73
+1036.0,3,3,17.0,1,11,0.38,Whitefield,Furnished,88.62
+1226.0,3,2,8.0,0,8,9.95,Indiranagar,Furnished,158.54
+899.0,2,1,11.0,2,11,2.7,Yelahanka,Unfurnished,65.81
+1263.0,3,3,6.0,2,9,2.28,Electronic City,Furnished,90.38
+1025.0,2,2,1.0,1,6,3.34,Whitefield,Unfurnished,89.25
+2483.0,5,6,10.0,0,12,2.32,HSR Layout,Furnished,256.92
+988.0,2,1,10.0,1,7,4.76,Yelahanka,Semi-Furnished,65.72
+965.0,2,2,27.0,2,20,3.21,HSR Layout,Unfurnished,79.24
+1741.0,4,3,27.0,2,9,4.25,Electronic City,Unfurnished,77.27
+1062.0,2,3,13.0,1,15,1.46,Electronic City,Unfurnished,73.91
+915.0,2,1,8.0,1,4,0.75,Hebbal,Unfurnished,69.59
+1569.0,3,2,12.0,2,13,5.13,Koramangala,Furnished,196.26
+1040.0,2,1,18.0,0,11,3.44,Jayanagar,Furnished,101.5
+1064.0,2,1,11.0,0,15,1.0,Yelahanka,Furnished,71.0
+832.0,2,2,23.0,2,9,1.02,Koramangala,Unfurnished,100.2
+1053.0,2,2,29.0,0,15,2.94,Jayanagar,Semi-Furnished,87.3
+1067.0,2,2,12.0,1,1,4.03,Jayanagar,Unfurnished,104.75
+664.0,1,2,3.0,1,14,1.28,Hebbal,Semi-Furnished,64.08
+1174.0,2,2,3.0,1,15,7.09,Indiranagar,Unfurnished,150.18
+962.0,2,1,27.0,0,10,4.39,HSR Layout,Unfurnished,66.49
+350.0,1,1,12.0,1,0,5.38,Jayanagar,Semi-Furnished,37.77
+920.0,3,4,10.0,1,11,2.89,Koramangala,Unfurnished,128.16
+1787.0,3,3,19.0,1,16,2.71,Jayanagar,Semi-Furnished,181.28
+753.0,1,1,29.0,1,9,0.92,Yelahanka,Semi-Furnished,40.99
+1274.0,2,3,13.0,2,1,1.47,Hebbal,Unfurnished,104.24
+1771.0,4,5,9.0,1,8,2.47,Indiranagar,Furnished,225.19
+1165.0,3,2,26.0,2,20,3.5,Electronic City,Semi-Furnished,71.88
+1114.0,2,2,2.0,1,5,3.08,Whitefield,Furnished,114.09
+898.0,2,2,26.0,0,11,0.45,Yelahanka,Semi-Furnished,55.95
+797.0,2,1,16.0,2,7,1.22,Indiranagar,Semi-Furnished,110.88
+1812.0,3,2,0.0,2,14,3.22,Whitefield,Semi-Furnished,173.8
+2373.0,4,5,7.0,0,8,3.57,Jayanagar,Furnished,291.65
+1890.0,4,4,21.0,1,8,1.98,Hebbal,Semi-Furnished,124.1
+,2,3,,1,12,,Electronic City,,58.85
+891.0,2,2,6.0,0,12,4.1,Whitefield,Unfurnished,73.91
+1165.0,2,2,20.0,1,10,9.52,Jayanagar,Semi-Furnished,110.67
+927.0,2,3,30.0,1,5,2.73,Hebbal,Unfurnished,54.35
+1139.0,2,1,21.0,0,2,1.92,Jayanagar,Unfurnished,92.21
+1525.0,3,3,21.0,2,14,1.28,Jayanagar,Unfurnished,149.63
+1052.0,2,1,5.0,1,7,0.82,Koramangala,Semi-Furnished,146.49
+1977.0,4,3,19.0,2,12,3.98,Koramangala,Unfurnished,196.11
+452.0,1,2,21.0,1,7,3.68,Yelahanka,Semi-Furnished,33.32
+604.0,1,1,3.0,2,17,0.92,Electronic City,Furnished,57.91
+1961.0,4,4,9.0,1,14,4.0,HSR Layout,Furnished,219.82
+1766.0,3,3,27.0,1,8,3.0,Indiranagar,Unfurnished,176.03
+836.0,2,3,30.0,1,6,2.15,Hebbal,Semi-Furnished,54.86
+1459.0,3,3,5.0,1,15,0.41,Jayanagar,Semi-Furnished,196.89
+855.0,2,3,22.0,1,0,3.65,Whitefield,Semi-Furnished,62.63
+1019.0,2,3,15.0,1,1,7.73,Electronic City,Semi-Furnished,59.61
+926.0,2,3,18.0,1,1,1.43,Yelahanka,Unfurnished,63.16
+844.0,2,3,15.0,0,7,3.0,Indiranagar,Furnished,114.74
+1403.0,3,2,26.0,2,10,3.86,Indiranagar,Unfurnished,134.26
+536.0,1,1,28.0,1,2,1.71,Hebbal,Furnished,40.09
+2047.0,4,4,8.0,0,5,2.64,Electronic City,Semi-Furnished,119.62
+1233.0,3,4,20.0,2,16,2.1,Jayanagar,Semi-Furnished,118.27
+545.0,1,1,16.0,2,2,5.11,HSR Layout,Unfurnished,54.49
+879.0,2,3,24.0,0,11,0.75,Yelahanka,Furnished,58.9
+352.0,1,1,11.0,0,2,1.17,HSR Layout,Furnished,36.41
+1592.0,3,3,11.0,0,0,2.28,Yelahanka,Semi-Furnished,93.35
+831.0,2,3,13.0,0,16,2.73,Jayanagar,Semi-Furnished,87.29
+1118.0,2,2,3.0,0,19,2.39,HSR Layout,Semi-Furnished,122.81
+494.0,1,1,19.0,1,9,6.87,Jayanagar,Unfurnished,49.39
+959.0,2,2,26.0,1,12,5.05,Jayanagar,Furnished,102.23
+1049.0,2,1,0.0,0,12,1.29,HSR Layout,Unfurnished,114.22
+946.0,2,1,22.0,1,4,1.76,Whitefield,Furnished,-10.0
+600.0,1,1,16.0,1,15,2.77,Electronic City,Unfurnished,37.82
+2001.0,4,5,5.0,1,8,3.73,Whitefield,Unfurnished,181.36
